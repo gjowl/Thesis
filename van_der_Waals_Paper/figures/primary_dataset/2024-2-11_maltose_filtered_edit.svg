@@ -25,15 +25,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="0.97547741"
-     inkscape:cx="409.54305"
-     inkscape:cy="466.43827"
+     inkscape:zoom="1.3795334"
+     inkscape:cx="586.79261"
+     inkscape:cy="611.80107"
      inkscape:window-width="3584"
      inkscape:window-height="1892"
      inkscape:window-x="5364"
      inkscape:window-y="425"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5027" />
+     inkscape:current-layer="figure_1" />
   <metadata
      id="metadata2">
     <rdf:RDF>
@@ -301,6 +301,15 @@
          width="402.19"
          height="276.28607"
          id="rect9139-6-0-7-0-1" />
+    </clipPath>
+    <clipPath
+       id="p3fc005be45-1">
+      <rect
+         x="63.571251"
+         y="10.8"
+         width="386.42874"
+         height="292.84"
+         id="rect5022-6" />
     </clipPath>
   </defs>
   <g
@@ -760,6 +769,16 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.4968px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33742;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
              x="368.39767"
              y="332.10715">Right</tspan></text>
+        <g
+           id="line2d_3-4"
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           transform="translate(-0.55559705,-33.268188)">
+          <path
+             d="M 63.57125,214.20566 H 450"
+             clip-path="url(#p3fc005be45-1)"
+             style="fill:#ff0000;stroke:#ff0000;stroke-width:0.8;stroke-linecap:round"
+             id="path95-3" />
+        </g>
       </g>
       <g
          id="patch_3">
@@ -13625,17 +13644,6 @@
         </g>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-           x="102.24625"
-           y="219.50197"
-           id="text7725"><tspan
-             sodipodi:role="line"
-             id="tspan7723"
-             style="font-size:8px;stroke-width:0.75"
-             x="102.24625"
-             y="219.50197">p=2.113e-09</tspan></text>
-        <text
-           xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
            x="238.13832"
            y="254.25807"
@@ -13844,7 +13852,30 @@
            style="font-size:8px;stroke-width:0.75"
            x="129.42711"
            y="24.949028">p=0.622</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+         x="102.24625"
+         y="219.50197"
+         id="text7725"
+         transform="translate(3.4598443,-210.28165)"><tspan
+           sodipodi:role="line"
+           id="tspan7723"
+           style="font-size:8px;stroke-width:0.75"
+           x="102.24625"
+           y="219.50197">p=2.113e-09</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
+       x="451.28156"
+       y="184.65225"
+       id="text7725-1"><tspan
+         sodipodi:role="line"
+         id="tspan7723-5"
+         style="font-size:8px;stroke-width:0.75"
+         x="451.28156"
+         y="184.65225">~60%GpA/14000 Fluorescence</tspan></text>
   </g>
   <defs
      id="defs5025">
