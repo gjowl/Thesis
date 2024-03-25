@@ -1,0 +1,2307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1779.7638mm"
+   height="1571.3965mm"
+   viewBox="0 0 1779.7637 1571.3964"
+   version="1.1"
+   id="svg8743"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="cell_sorting.svg"
+   inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+   inkscape:export-xdpi="120"
+   inkscape:export-ydpi="120"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8745"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.08"
+     inkscape:cx="3893.75"
+     inkscape:cy="3787.5"
+     inkscape:window-width="3584"
+     inkscape:window-height="1892"
+     inkscape:window-x="5364"
+     inkscape:window-y="425"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g14613" />
+  <defs
+     id="defs8740">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient60485"
+       id="linearGradient60487"
+       x1="552.25"
+       y1="402.06601"
+       x2="568.58301"
+       y2="402.06601"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(35.095136,0,0,35.095136,-25986.915,-10045.726)" />
+    <linearGradient
+       id="linearGradient60485"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop60483" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient60485"
+       id="linearGradient18639"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(35.095136,0,0,35.095136,-24494.577,-10045.726)"
+       x1="552.25"
+       y1="402.06601"
+       x2="568.58301"
+       y2="402.06601" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2088.8261,-4169.0196)">
+    <ellipse
+       id="path3270-3-2-7"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-974.75537"
+       cy="4346.1875"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1154.5687"
+       cy="4620.4878"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1116.9414"
+       cy="4587.7856"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1022.7745"
+       cy="4368.0298"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1137.6266"
+       cy="4546.415"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1009.28"
+       cy="4317.6958"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-9"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1459.6394"
+       cy="4388.9106"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1054.7516"
+       cy="4255.0234"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-2"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1404.8237"
+       cy="4397.2588"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-2"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1376.8495"
+       cy="4625.0913"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-4"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1425.5088"
+       cy="4355.8882"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-2"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1363.3549"
+       cy="4574.7573"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-8"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1307.6677"
+       cy="4521.9351"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-2"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1290.4792"
+       cy="4562.9854"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-8"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1252.8519"
+       cy="4530.2832"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-21"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1355.6869"
+       cy="4543.7778"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-5"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1043.4391"
+       cy="4378.5918"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-7"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-981.28503"
+       cy="4581.7007"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1240.8031"
+       cy="4605.5161"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-1"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1223.6147"
+       cy="4646.5664"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-9"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1185.9873"
+       cy="4613.8638"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-4"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1288.8223"
+       cy="4627.3584"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-1"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1206.6725"
+       cy="4572.4937"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-77"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1275.3276"
+       cy="4577.0244"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-60"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1172.8241"
+       cy="4728.1011"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-6"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1155.6357"
+       cy="4769.1514"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-90"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1081.76"
+       cy="4476.4067"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-3"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1220.8433"
+       cy="4749.9438"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-7"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1102.4452"
+       cy="4435.0361"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-5"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1207.3486"
+       cy="4699.6099"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-94"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1338.1687"
+       cy="4316.4741"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-07"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1320.9803"
+       cy="4357.5244"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-3"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1310.1453"
+       cy="4351.6143"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-5"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1386.1879"
+       cy="4338.3164"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-8"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1330.8303"
+       cy="4310.2441"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1372.6932"
+       cy="4287.9824"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-04"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1434.6992"
+       cy="4548.6426"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-9"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1417.5109"
+       cy="4589.6929"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-5"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1379.8835"
+       cy="4556.9907"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-45"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1031.9784"
+       cy="4330.9312"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-3"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1400.5686"
+       cy="4515.6201"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-4"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1469.2238"
+       cy="4520.1514"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-81"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1234.575"
+       cy="4459.165"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-00"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-999.89655"
+       cy="4531.7354"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-53"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1179.7592"
+       cy="4467.5132"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-1"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1282.5941"
+       cy="4481.0073"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-2"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1200.4443"
+       cy="4426.1426"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-6"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1269.0995"
+       cy="4430.6738"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-5"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1018.1993"
+       cy="4645.5884"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-7"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1001.011"
+       cy="4686.6387"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-32"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-963.38367"
+       cy="4653.936"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1066.2185"
+       cy="4667.4307"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-0-4"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1426.9164"
+       cy="4749.7808"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-0-46"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-918.65186"
+       cy="4494.4663"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-0-2"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1159.7821"
+       cy="4436.9419"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-0-6"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1507.2932"
+       cy="4258.8525"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-0-47"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-947.02008"
+       cy="4407.7856"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-0-9"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1205.4865"
+       cy="4533.8667"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-0-0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1070.7373"
+       cy="4803.3652"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-83"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-984.06879"
+       cy="4612.5659"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-83-3"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-925.7439"
+       cy="4564.5991"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-83-9"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1478.9249"
+       cy="4347.8975"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-83-31"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-929.68396"
+       cy="4694.6201"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-62"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1052.724"
+       cy="4617.0967"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-56"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1137.4413"
+       cy="4712.4531"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-002"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1120.2529"
+       cy="4753.5029"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-28"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1082.6256"
+       cy="4720.8008"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-14"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-988.45868"
+       cy="4501.0454"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-25"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1103.3107"
+       cy="4679.4307"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-8"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-974.96405"
+       cy="4450.7114"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-1"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1049.6517"
+       cy="4416.7959"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-3"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1032.4633"
+       cy="4457.8462"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-35"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-994.836"
+       cy="4425.1436"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-06"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1097.6709"
+       cy="4438.6382"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-78"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1015.5211"
+       cy="4383.7734"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-3"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1084.1763"
+       cy="4388.3047"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-40"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1081.9696"
+       cy="4300.897"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-8"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1064.7812"
+       cy="4341.9473"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-97"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1027.1538"
+       cy="4309.2451"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-25"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1166.2371"
+       cy="4582.7822"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-9"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1047.8391"
+       cy="4267.875"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-9"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1152.7426"
+       cy="4532.4482"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-818"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1314.3542"
+       cy="4685.7534"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-26"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1297.1658"
+       cy="4726.8037"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-26-3"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1419.8243"
+       cy="4706.4404"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-26-5"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1270.103"
+       cy="4860.8896"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-26-0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1354.4198"
+       cy="4789.1812"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-26-9"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1194.4543"
+       cy="4846.7056"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-33"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1259.5385"
+       cy="4694.1016"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-33-5"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1200.9695"
+       cy="5011.5137"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-258"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1362.3734"
+       cy="4707.5962"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-81"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1280.2236"
+       cy="4652.731"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-70"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1348.8788"
+       cy="4657.2622"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-2"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1237.6295"
+       cy="4225.0898"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-05"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1220.4412"
+       cy="4266.1401"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-31"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1182.8138"
+       cy="4233.438"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-8"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1285.6487"
+       cy="4246.9326"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-84"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1047.4736"
+       cy="4631.7754"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-92"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1116.1288"
+       cy="4636.3066"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-23"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1112.1163"
+       cy="4285.6855"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-32"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-964.11877"
+       cy="4525.314"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-32-1"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-927.31989"
+       cy="4444.0342"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-32-8"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1486.017"
+       cy="4672.5562"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-32-9"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1489.9569"
+       cy="4578.7832"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-56"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1057.3005"
+       cy="4294.0337"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-44"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1160.1355"
+       cy="4307.5283"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-75"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1077.9858"
+       cy="4252.6636"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-90"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1158.4611"
+       cy="4261.1343"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-7"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1410.6053"
+       cy="4269.6689"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-269"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1393.417"
+       cy="4310.7192"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-7"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1355.7897"
+       cy="4278.0166"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-24"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1458.6245"
+       cy="4291.5112"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-35"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1376.4747"
+       cy="4236.6465"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-59"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1445.1299"
+       cy="4241.1772"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-25"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1334.8254"
+       cy="4405.627"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-94"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-921.26953"
+       cy="4283.5596"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-905"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1306.802"
+       cy="4440.7671"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-04"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-995.14514"
+       cy="4252.5317"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-04-6"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1126.6438"
+       cy="4366.1382"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-04-9"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1347.2858"
+       cy="4747.5337"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-04-65"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1084.0914"
+       cy="4495.3711"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-87"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1327.4872"
+       cy="4399.397"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-89"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1369.3501"
+       cy="4377.1353"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-87"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1240.9728"
+       cy="4323.1582"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-99"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1223.7843"
+       cy="4364.2085"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-4"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1186.157"
+       cy="4331.5063"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-30"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1288.9919"
+       cy="4345.001"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-38"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1206.8422"
+       cy="4290.1357"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-49"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1275.4973"
+       cy="4294.667"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-8-6"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1405.6581"
+       cy="4226.4419"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-0-4"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1447.5209"
+       cy="4204.1807"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-8-5"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1290.3438"
+       cy="4195.439"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-7-6"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1485.433"
+       cy="4185.8667"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-269-9"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1468.2446"
+       cy="4226.917"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-7-9"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1430.6173"
+       cy="4194.2148"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-24-8"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1533.4521"
+       cy="4207.7095"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-49-2"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1324.3208"
+       cy="4224.2607"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-8-4"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1055.7828"
+       cy="4236.686"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-0-0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1097.6458"
+       cy="4214.4248"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-8-8"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1225.7272"
+       cy="4188.3467"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-7-3"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1144.226"
+       cy="4189.8066"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-269-8"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1118.3695"
+       cy="4237.1611"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-7-7"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1055.5259"
+       cy="4187.9106"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-24-0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1183.577"
+       cy="4217.9536"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-49-9"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1000.4498"
+       cy="4221.1089"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-8-41"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-872.17719"
+       cy="4229.5938"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-0-5"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-914.0401"
+       cy="4207.3325"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-8-0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1365.9924"
+       cy="4189.1348"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-7-2"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-951.95221"
+       cy="4189.019"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-269-7"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-934.76385"
+       cy="4230.0688"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-7-6"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-897.13647"
+       cy="4197.3667"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-24-7"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-999.97137"
+       cy="4210.8613"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-26"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1254.176"
+       cy="4778.2495"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-17"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1236.9877"
+       cy="4819.2998"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-25"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1199.3604"
+       cy="4786.5977"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-54"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1302.1952"
+       cy="4800.0923"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-54-6"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1199.1404"
+       cy="4952.4155"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-77"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1220.0454"
+       cy="4745.2271"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-77-2"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1424.5104"
+       cy="4671.8848"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-77-5"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1155.012"
+       cy="4530.0435"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-77-7"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1128.2197"
+       cy="4411.8423"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-77-6"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1120.3397"
+       cy="4339.3457"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-77-3"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1052.571"
+       cy="4755.4136"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-1"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1288.7006"
+       cy="4749.7583"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-1-8"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1145.5559"
+       cy="4829.4863"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-1-8-7"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1189.6843"
+       cy="4884.6465"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-1-6"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-989.53052"
+       cy="4723.8931"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-1-9"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1161.316"
+       cy="4670.3086"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-1-4"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1208.5966"
+       cy="4509.5552"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-1-0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1131.3718"
+       cy="4481.187"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-1-2"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-975.34637"
+       cy="4298.3696"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-1-62"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-943.82617"
+       cy="4378.7461"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-1-98"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1456.0308"
+       cy="4629.3325"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-1-03"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1329.9496"
+       cy="4605.6924"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-1-41"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-924.12592"
+       cy="4325.9497"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-89"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1063.7736"
+       cy="4554.4712"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-4"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1046.5852"
+       cy="4595.5215"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-79"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1008.9578"
+       cy="4562.8193"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-7"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1111.7927"
+       cy="4576.314"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-20"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1029.6429"
+       cy="4521.4492"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-18"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1098.2981"
+       cy="4525.98"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-08"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1413.5255"
+       cy="4462.833"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-96"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1396.337"
+       cy="4503.8833"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-45"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1358.7097"
+       cy="4471.1812"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-6"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1461.5447"
+       cy="4484.6758"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-23"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1379.3948"
+       cy="4429.8105"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-33"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1448.0499"
+       cy="4434.3418"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-84"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1230.1173"
+       cy="4357.7534"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-4-82"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#80ff80;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1212.9288"
+       cy="4398.8037"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-6-84"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d5ffd5;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1175.3015"
+       cy="4366.1016"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-48-51"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aa00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1278.1365"
+       cy="4379.5962"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-3-98"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1195.9867"
+       cy="4324.7314"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       id="path3270-3-2-7-32-09"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1264.6418"
+       cy="4329.2622"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <g
+       style="fill:#000000"
+       id="g12782"
+       transform="matrix(2.3851369,0,0,2.3851369,-1713.4835,4169.0196)"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120">
+      <g
+         id="g12772">
+	<path
+   d="M 368.251,0 H 61.749 c -4.971,0 -9,4.029 -9,9 v 0.935561 c 0,4.971 0.23493,4.035555 2.722736,8.339235 L 76.861765,55.277618 76.201,226.985 c -0.01081,2.80998 1.312,5.458 3.547,7.16 l 107.739,82.054 V 421 c 0,4.971 4.029,9 9,9 h 36.601 c 4.971,0 9,-4.029 9,-9 V 316.525 l 108.168,-82.38 c 2.235,-1.703 3.547,-4.351 3.547,-7.16 V 55.608 l 23.69971,-39.976262 c 2.53502,-4.276037 1.08714,-0.167574 0.0797,-5.035412 L 377.252,9 c -0.001,-4.971 -4.03,-9 -9.001,-9 z M 225.72911,430.0584 H 204.66355 L 199.527,302.742 h 30.949 z M 335.802,222.526 230.476,302.742 H 199.527 L 94.201,222.526 V 55.608 H 335.803 V 222.526 Z M 335.803,55.608 H 94.201 L 61.749,0 h 306.502 z"
+   id="path12768"
+   sodipodi:nodetypes="ssssscsccssssccscsscscccccccccccccccccc" />
+
+	
+</g>
+    </g>
+    <g
+       id="g14613"
+       transform="matrix(7.1403481,0,0,7.1403481,-13689.71,82.822417)">
+      <rect
+         x="1655.5267"
+         y="687.89966"
+         style="fill:#ffffff;stroke-width:0.149078"
+         width="56.415714"
+         height="18.692585"
+         id="rect14577"
+         inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+      <path
+         d="m 1717.6883,686.34196 h -60.3476 c -2.3216,0 -4.2103,2.09634 -4.2103,4.67315 v 12.46172 c 0,2.57681 1.8887,4.67315 4.2103,4.67315 h 60.3476 c 2.3216,0 4.2103,-2.09634 4.2103,-4.67315 v -12.46172 c 0,-2.57681 -1.8887,-4.67315 -4.2103,-4.67315 z m -61.751,17.13487 v -12.46172 c 0,-0.85899 0.6295,-1.55772 1.4034,-1.55772 h 3.3563 v 15.57716 h -3.3563 c -0.7739,0 -1.4034,-0.69888 -1.4034,-1.55772 z m 4.7597,1.55772 v -15.57716 h 53.6351 v 15.57716 z m 58.3947,-1.55772 c 0,0.85899 -0.6295,1.55772 -1.4034,1.55772 h -3.3562 v -15.57716 h 3.3562 c 0.7739,0 1.4034,0.69873 1.4034,1.55772 z"
+         id="path14579"
+         sodipodi:nodetypes="ssssssssssssccsscccccssccsss"
+         style="stroke-width:0.141503"
+         inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+      <path
+         d="m 1764.3932,696.79331 h -46.7403 c 0,0 -0.379,0.41739 -0.379,0.95751 0,0.54011 0.379,0.99836 0.379,0.99836 h 46.7403 c 0,0 0.2935,-0.43782 0.2935,-0.97793 0,-0.54012 -0.2935,-0.97794 -0.2935,-0.97794 z"
+         id="path14583"
+         style="fill:#00ff00;fill-opacity:1;stroke:#00f700;stroke-width:0.224031;stroke-opacity:1"
+         sodipodi:nodetypes="ccsccsc"
+         inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+      <path
+         d="m 1745.626,715.92383 -105.8755,19.16805 c 0,0 -0.7842,0.56615 -0.688,1.09763 0.096,0.53147 1.0364,0.82696 1.0364,0.82696 l 105.8755,-19.16806 c 0,0 0.5867,-0.55116 0.4905,-1.08263 -0.096,-0.53148 -0.8389,-0.84195 -0.8389,-0.84195 z"
+         id="path14583-8"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.339908;stroke-opacity:0"
+         sodipodi:nodetypes="ccsccsc"
+         inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+      <path
+         d="m 1857.7479,739.03486 -105.0853,-23.11103 c 0,0 -0.9418,0.22023 -1.0578,0.74774 -0.116,0.52751 0.6377,1.16247 0.6377,1.16247 l 105.0853,23.11104 c 0,0 0.7538,-0.28251 0.8698,-0.81001 0.116,-0.52752 -0.4497,-1.10021 -0.4497,-1.10021 z"
+         id="path14583-8-6"
+         style="fill:#000000;fill-opacity:1;stroke:#008c00;stroke-width:0.521956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="ccsccsc"
+         inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+      <path
+         d="m 1799.4445,736.15377 -46.968,-20.26375 c 0,0 -0.544,0.21989 -0.755,0.71707 -0.2112,0.49708 -0.01,1.08333 -0.01,1.08333 l 46.9681,20.26374 c 0,0 0.4659,-0.2758 0.6769,-0.77297 0.2112,-0.49708 0.087,-1.02744 0.087,-1.02744 z"
+         id="path14583-8-6-1"
+         style="fill:#000000;fill-opacity:1;stroke:#00fa00;stroke-width:0.521956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="ccsccsc"
+         inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+      <path
+         d="m 1745.626,715.92383 -47.9061,17.93403 c 0,0 -0.2398,0.53542 -0.047,1.04012 0.1921,0.50478 0.7439,0.78751 0.7439,0.78751 l 47.9061,-17.93403 c 0,0 0.1448,-0.5217 -0.047,-1.02639 -0.1921,-0.50478 -0.6491,-0.80121 -0.6491,-0.80121 z"
+         id="path14583-8-6-1-2"
+         style="fill:#000000;fill-opacity:1;stroke:#49ee89;stroke-width:0.521956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="ccsccsc"
+         inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+      <path
+         d="m 1748.136,716.22951 -0.1434,28.15664 c 0,0 0.4162,0.23308 0.9562,0.23925 0.5401,0.006 0.9994,-0.21689 0.9994,-0.21689 l 0.1434,-28.15664 c 0,0 -0.4368,-0.18176 -0.9769,-0.18794 -0.54,-0.006 -0.9787,0.16562 -0.9787,0.16562 z"
+         id="path14583-8-6-1-2-2"
+         style="fill:#000000;fill-opacity:1;stroke:#1dec48;stroke-width:0.387237;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="ccsccsc"
+         inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+    </g>
+    <g
+       transform="matrix(9.8065187,0,0,9.8065187,-7504.4761,1632.5341)"
+       id="g60290-5"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120">
+      <path
+         d="m 560.416,418.893 a 8.164,8.164 0 0 1 -8.166,-8.144 v -24.51 a 1,1 0 0 1 2,0 v 24.51 a 6.167,6.167 0 0 0 12.333,0 v -24.51 a 1,1 0 0 1 2,0 v 24.51 a 8.165,8.165 0 0 1 -8.167,8.144 z"
+         id="path60286-3" />
+      <path
+         d="M 557.256,386.057"
+         stroke="#1a1a1a"
+         stroke-miterlimit="10"
+         stroke-width="2"
+         id="path60288-7" />
+    </g>
+    <g
+       id="g18687"
+       transform="matrix(0.27942671,0,0,0.27942671,965.59132,4439.5784)"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120">
+      <g
+         transform="matrix(35.095136,0,0,35.095136,-27414.238,-10045.727)"
+         id="g60290-0"
+         inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\2024-1-7_sort_seq_toxgreen_conversion.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120">
+        <path
+           d="m 560.416,418.893 a 8.164,8.164 0 0 1 -8.166,-8.144 v -24.51 a 1,1 0 0 1 2,0 v 24.51 a 6.167,6.167 0 0 0 12.333,0 v -24.51 a 1,1 0 0 1 2,0 v 24.51 a 8.165,8.165 0 0 1 -8.167,8.144 z"
+           id="path60286-9" />
+        <path
+           d="M 557.256,386.057"
+           stroke="#1a1a1a"
+           stroke-miterlimit="10"
+           stroke-width="2"
+           id="path60288-6" />
+      </g>
+      <g
+         id="g60637-9"
+         transform="matrix(35.095136,0,0,35.095136,-27419.517,-10036.388)"
+         style="fill:#80ff80"
+         inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\2024-1-7_sort_seq_toxgreen_conversion.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120">
+        <rect
+           style="fill:#80ff80;fill-opacity:1;stroke:none;stroke-width:0.753821;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect60529-4"
+           width="12.320325"
+           height="24.864655"
+           x="554.2934"
+           y="386.34351" />
+        <ellipse
+           style="fill:#80ff80;fill-opacity:1;stroke:none;stroke-width:0.736411;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path60553-4"
+           cx="560.45081"
+           cy="411.92117"
+           rx="6.1574292"
+           ry="5.3351607" />
+      </g>
+    </g>
+    <g
+       id="g18695"
+       transform="matrix(0.27942671,0,0,0.27942671,956.90873,4439.5784)"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120">
+      <g
+         transform="matrix(35.095136,0,0,35.095136,-28832.198,-10045.727)"
+         id="g60290-1"
+         inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\2024-1-7_sort_seq_toxgreen_conversion.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120">
+        <path
+           d="m 560.416,418.893 a 8.164,8.164 0 0 1 -8.166,-8.144 v -24.51 a 1,1 0 0 1 2,0 v 24.51 a 6.167,6.167 0 0 0 12.333,0 v -24.51 a 1,1 0 0 1 2,0 v 24.51 a 8.165,8.165 0 0 1 -8.167,8.144 z"
+           id="path60286-6" />
+        <path
+           d="M 557.256,386.057"
+           stroke="#1a1a1a"
+           stroke-miterlimit="10"
+           stroke-width="2"
+           id="path60288-2" />
+      </g>
+      <g
+         id="g60637-93"
+         transform="matrix(35.095136,0,0,35.095136,-28831.237,-10036.388)"
+         style="fill:#d5ffd5"
+         inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\2024-1-7_sort_seq_toxgreen_conversion.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120">
+        <rect
+           style="fill:#d5ffd5;fill-opacity:1;stroke:none;stroke-width:0.753821;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect60529-2"
+           width="12.320325"
+           height="24.864655"
+           x="554.2934"
+           y="386.34351" />
+        <ellipse
+           style="fill:#d5ffd5;fill-opacity:1;stroke:none;stroke-width:0.736411;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path60553-9"
+           cx="560.45081"
+           cy="411.92117"
+           rx="6.1574292"
+           ry="5.3351607" />
+      </g>
+    </g>
+    <g
+       id="g18679"
+       transform="matrix(0.27942671,0,0,0.27942671,971.667,4439.5784)"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120">
+      <g
+         transform="matrix(35.095136,0,0,35.095136,-26140.469,-9483.8886)"
+         id="g60290"
+         inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\2024-1-7_sort_seq_toxgreen_conversion.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120">
+        <path
+           d="M 557.256,386.057"
+           stroke="#1a1a1a"
+           stroke-miterlimit="10"
+           stroke-width="2"
+           id="path60288" />
+      </g>
+      <g
+         id="g60637"
+         transform="matrix(35.095136,0,0,35.095136,-25986.915,-10036.388)"
+         style="fill:#00ff00"
+         inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\2024-1-7_sort_seq_toxgreen_conversion.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120">
+        <rect
+           style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.753821;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect60529"
+           width="12.320325"
+           height="24.864655"
+           x="554.2934"
+           y="386.34351" />
+        <ellipse
+           style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.736411;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path60553"
+           cx="560.45081"
+           cy="411.92117"
+           rx="6.1574292"
+           ry="5.3351607" />
+      </g>
+      <path
+         d="m -6319.073,4655.3803 a 286.5167,286.5167 0 0 1 -286.5868,-285.8151 v -860.1816 a 35.095164,35.095164 0 0 1 70.1903,0 v 860.1816 a 216.4317,216.4317 0 0 0 432.8281,0 v -860.1816 a 35.0952,35.0952 0 0 1 70.1904,0 v 860.1816 a 286.55178,286.55178 0 0 1 -286.622,285.8151 z"
+         id="path60286"
+         style="fill:url(#linearGradient60487);fill-opacity:1;stroke:none;stroke-width:35.0923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\2024-1-7_sort_seq_toxgreen_conversion.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+    </g>
+    <g
+       id="g18671"
+       transform="matrix(0.27942671,0,0,0.27942671,959.56649,4439.5784)"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120">
+      <g
+         transform="matrix(35.095136,0,0,35.095136,-24648.131,-9483.8886)"
+         id="g60290-8"
+         inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\2024-1-7_sort_seq_toxgreen_conversion.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120">
+        <path
+           d="M 557.256,386.057"
+           stroke="#1a1a1a"
+           stroke-miterlimit="10"
+           stroke-width="2"
+           id="path60288-1" />
+      </g>
+      <g
+         id="g60637-1"
+         transform="matrix(35.095136,0,0,35.095136,-24494.577,-10036.388)"
+         style="fill:#00aa00"
+         inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\2024-1-7_sort_seq_toxgreen_conversion.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120">
+        <rect
+           style="fill:#00aa00;fill-opacity:1;stroke:none;stroke-width:0.753821;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect60529-7"
+           width="12.320325"
+           height="24.864655"
+           x="554.2934"
+           y="386.34351" />
+        <ellipse
+           style="fill:#00aa00;fill-opacity:1;stroke:none;stroke-width:0.736411;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path60553-6"
+           cx="560.45081"
+           cy="411.92117"
+           rx="6.1574292"
+           ry="5.3351607" />
+      </g>
+      <path
+         d="m -4826.735,4655.3803 a 286.5167,286.5167 0 0 1 -286.5868,-285.8151 v -860.1816 a 35.095164,35.095164 0 0 1 70.1903,0 v 860.1816 a 216.4317,216.4317 0 0 0 432.8281,0 v -860.1816 a 35.0952,35.0952 0 0 1 70.1904,0 v 860.1816 a 286.55178,286.55178 0 0 1 -286.622,285.8151 z"
+         id="path60286-94"
+         style="fill:url(#linearGradient18639);fill-opacity:1;stroke:none;stroke-width:35.0923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\2024-1-7_sort_seq_toxgreen_conversion.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+    </g>
+    <ellipse
+       id="path3270-3-2-7-3-77-50"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ff00;stroke:#000000;stroke-width:1.01094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="-1202.2925"
+       cy="5064.3125"
+       rx="25.542099"
+       ry="15.78748"
+       inkscape:export-filename="D:\github\Thesis\public_chapter\figures\cell_sorting.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+  </g>
+</svg>
