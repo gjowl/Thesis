@@ -27,12 +27,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.40043841"
-     inkscape:cx="264.70987"
-     inkscape:cy="946.46265"
-     inkscape:window-width="3584"
-     inkscape:window-height="1892"
-     inkscape:window-x="5364"
-     inkscape:window-y="425"
+     inkscape:cx="-267.20713"
+     inkscape:cy="1128.7628"
+     inkscape:window-width="3840"
+     inkscape:window-height="2036"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -1486,7 +1486,7 @@
        inkscape:export-ydpi="120"><tspan
          x="-856.56055"
          y="-270.14583"
-         id="tspan12111">No Packing</tspan></text>
+         id="tspan1426">No Packing</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.94934891,0,0,0.94934891,1901.8655,731.53498)"
@@ -1497,7 +1497,7 @@
        inkscape:export-ydpi="120"><tspan
          x="-856.56055"
          y="-270.14583"
-         id="tspan12113">Weak </tspan></text>
+         id="tspan1428">Weak </tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.94934891,0,0,0.94934891,2119.3491,729.81383)"
@@ -1508,7 +1508,7 @@
        inkscape:export-ydpi="120"><tspan
          x="-856.56055"
          y="-270.14583"
-         id="tspan12115">Strong Packing</tspan></text>
+         id="tspan1430">Strong Packing</tspan></text>
     <path
        d="m 1279.9964,459.44272 -58.0656,-0.0231 m 58.0656,0.0231 -14.5106,-14.52216 m 14.5106,14.52216 -14.5222,14.51061"
        stroke="#000000"
@@ -1521,7 +1521,7 @@
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:2.77392;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:none;stroke-width:2.77392;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect33004"
        width="663.62134"
        height="473.97293"

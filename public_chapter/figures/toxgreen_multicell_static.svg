@@ -27,8 +27,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.14157636"
-     inkscape:cx="-508.55948"
-     inkscape:cy="339.03965"
+     inkscape:cx="1652.8183"
+     inkscape:cy="2147.2511"
      inkscape:window-width="3584"
      inkscape:window-height="1892"
      inkscape:window-x="5364"
@@ -149,7 +149,7 @@
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3.32642;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:none;stroke-width:3.32642;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -613.21802,-416.89873 H 791.91119 V 74.38936 H -613.21802 Z"
        id="path3406"
        inkscape:export-filename="D:\github\Thesis\public_chapter\figures\toxgreen_multicell.png"
