@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="799.14978mm"
-   height="413.75345mm"
-   viewBox="0 0 799.14977 413.75346"
+   width="820.15399mm"
+   height="427.79462mm"
+   viewBox="0 0 820.15398 427.79463"
    version="1.1"
    id="svg29484"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.1326109"
-     inkscape:cx="1301.8593"
-     inkscape:cy="533.28113"
+     inkscape:zoom="0.56630545"
+     inkscape:cx="1393.241"
+     inkscape:cy="586.25606"
      inkscape:window-width="3840"
      inkscape:window-height="2036"
      inkscape:window-x="-12"
      inkscape:window-y="-12"
      inkscape:window-maximized="1"
-     inkscape:current-layer="matplotlib.axis_2-9" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs29481">
     <rect
@@ -428,10 +428,10 @@
        inkscape:collect="always" />
     <inkscape:perspective
        id="perspective27127"
-       inkscape:persp3d-origin="372.04723 : 467.54083 : 1"
-       inkscape:vp_z="744.09447 : 642.93453 : 1"
-       inkscape:vp_y="0 : 999.99993 : 0"
-       inkscape:vp_x="0 : 642.93453 : 1"
+       inkscape:persp3d-origin="372.04723 : 481.582 : 1"
+       inkscape:vp_z="744.09447 : 656.97571 : 1"
+       inkscape:vp_y="0 : 999.99994 : 0"
+       inkscape:vp_x="0 : 656.97571 : 1"
        sodipodi:type="inkscape:persp3d" />
     <linearGradient
        id="linearGradient27910">
@@ -468,10 +468,10 @@
     </linearGradient>
     <inkscape:perspective
        id="perspective27127-0"
-       inkscape:persp3d-origin="372.04723 : 467.54083 : 1"
-       inkscape:vp_z="744.09447 : 642.93453 : 1"
-       inkscape:vp_y="0 : 999.99993 : 0"
-       inkscape:vp_x="0 : 642.93453 : 1"
+       inkscape:persp3d-origin="372.04723 : 481.582 : 1"
+       inkscape:vp_z="744.09447 : 656.97571 : 1"
+       inkscape:vp_y="0 : 999.99994 : 0"
+       inkscape:vp_x="0 : 656.97571 : 1"
        sodipodi:type="inkscape:persp3d" />
     <linearGradient
        inkscape:collect="always"
@@ -2154,12 +2154,22 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-102.13716,-198.65986)">
+     transform="translate(-93.15956,-191.45448)">
+    <rect
+       style="opacity:0.0449438;fill:#ffffff;stroke:#000000;stroke-width:0.201236;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="rect145373"
+       width="819.95276"
+       height="427.59338"
+       x="93.260178"
+       y="191.5551"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <g
        inkscape:label="Layer 1"
        id="layer1-3-9"
-       transform="matrix(0.78452993,0,0,0.78452993,-185.72225,586.52772)"
-       inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\alternate_sequence_design_image.png"
+       transform="matrix(0.78452993,0,0,0.78452993,-185.72226,586.52773)"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="stroke-linecap:butt;stroke-linejoin:round">
@@ -2196,8 +2206,8 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"><tspan
            x="179.80273"
-           y="-27.186475"
-           id="tspan70697">GASright</tspan></text>
+           y="-27.28468"
+           id="tspan148983">GASright</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.41206935,0,0,0.41206935,658.18454,-121.68472)"
@@ -2207,8 +2217,8 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"><tspan
            x="179.80273"
-           y="-27.186475"
-           id="tspan70699">Left</tspan></text>
+           y="-27.28468"
+           id="tspan148985">Left</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.41165675,0,0,0.41165675,528.15262,-64.937117)"
@@ -2218,8 +2228,8 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"><tspan
            x="179.80273"
-           y="-27.186475"
-           id="tspan70701">Right</tspan></text>
+           y="-27.28468"
+           id="tspan148987">Right</tspan></text>
       <image
          width="81.374397"
          height="81.374397"
@@ -2282,11 +2292,11 @@
     </g>
     <g
        id="patch_1-2"
-       inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\alternate_sequence_design_image.png"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.60381746,0,0,0.60381746,136.71895,203.89929)">
+       transform="matrix(0.60381745,0,0,0.60381745,136.71895,203.89929)">
       <path
          d="M 0,333.29197 H 443.40656 V 0 H 0 Z"
          style="fill:#ffffff"
@@ -2294,11 +2304,11 @@
     </g>
     <g
        id="patch_2-8"
-       inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\alternate_sequence_design_image.png"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.60381746,0,0,0.60381746,136.71895,203.89929)">
+       transform="matrix(0.60381745,0,0,0.60381745,136.71895,203.89929)">
       <path
          d="M 55.345313,295.73572 H 412.46531 V 29.623725 H 55.345313 Z"
          style="fill:#ffffff"
@@ -2307,11 +2317,11 @@
     <g
        clip-path="url(#p2e1a12f444-3)"
        id="g29565-6"
-       inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\alternate_sequence_design_image.png"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.60381746,0,0,0.60381746,136.71895,203.89929)">
+       transform="matrix(0.60381745,0,0,0.60381745,136.71895,203.89929)">
       <image
          xlink:href="data:image/png;base64, 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"
          id="image6ed35fd1b1-6"
@@ -2323,11 +2333,11 @@
     </g>
     <g
        id="matplotlib.axis_1-3"
-       inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\alternate_sequence_design_image.png"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.57585563,0,0,0.57585563,121.94352,203.83823)">
+       transform="matrix(0.57585562,0,0,0.57585562,121.94352,203.83823)">
       <g
          id="xtick_1-2"
          transform="matrix(1.048557,0,0,1.048557,25.658228,0.10604165)">
@@ -2657,16 +2667,16 @@
          id="text51479"
          style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect51481);fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="-15.892578"
-           y="57.564179"
-           id="tspan70703">A</tspan></text>
+           y="57.328486"
+           id="tspan148989">A</tspan></text>
     </g>
     <g
        id="matplotlib.axis_2-9"
-       inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\alternate_sequence_design_image.png"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.60381746,0,0,0.60381746,136.71895,203.89929)">
+       transform="matrix(0.60381745,0,0,0.60381745,136.71895,203.89929)">
       <g
          id="ytick_1-6">
         <g
@@ -3105,11 +3115,11 @@
     </g>
     <g
        id="line2d_33-9"
-       inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\alternate_sequence_design_image.png"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.60381746,0,0,0.60381746,136.71895,203.89929)">
+       transform="matrix(0.60381745,0,0,0.60381745,136.71895,203.89929)">
       <defs
          id="defs29906-0">
         <path
@@ -7852,11 +7862,11 @@
     </g>
     <g
        id="patch_3-8"
-       inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\alternate_sequence_design_image.png"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.60381746,0,0,0.60381746,136.71895,203.89929)">
+       transform="matrix(0.60381745,0,0,0.60381745,136.71895,203.89929)">
       <path
          d="M 55.345313,295.73572 V 29.623725"
          style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
@@ -7864,11 +7874,11 @@
     </g>
     <g
        id="patch_4-6"
-       inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\alternate_sequence_design_image.png"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.60381746,0,0,0.60381746,136.71895,203.89929)">
+       transform="matrix(0.60381745,0,0,0.60381745,136.71895,203.89929)">
       <path
          d="M 412.46531,295.73572 V 29.623725"
          style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
@@ -7876,11 +7886,11 @@
     </g>
     <g
        id="patch_5-1"
-       inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\alternate_sequence_design_image.png"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.60381746,0,0,0.60381746,136.71895,203.89929)">
+       transform="matrix(0.60381745,0,0,0.60381745,136.71895,203.89929)">
       <path
          d="M 55.345312,295.73572 H 412.46531"
          style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
@@ -7888,11 +7898,11 @@
     </g>
     <g
        id="patch_6-4"
-       inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\alternate_sequence_design_image.png"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.60381746,0,0,0.60381746,136.71895,203.89929)">
+       transform="matrix(0.60381745,0,0,0.60381745,136.71895,203.89929)">
       <path
          d="M 55.345312,29.623725 H 412.46531"
          style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
@@ -7904,7 +7914,7 @@
        x="146.65874"
        y="212.95496"
        id="text36663-4"
-       inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\alternate_sequence_design_image.png"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -7918,7 +7928,7 @@
        x="608.9093"
        y="376.42545"
        id="text48076-2"
-       inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\alternate_sequence_design_image.png"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -7926,7 +7936,7 @@
          style="stroke-width:0.264583"
          x="608.9093"
          y="376.42545">X = <tspan
-   style="fill:#008000;stroke-width:0.264583"
+   style="fill:#696969;stroke-width:0.264583"
    id="tspan10804">G*</tspan> A L V S T F W Y I</tspan></text>
     <text
        xml:space="preserve"
@@ -7934,30 +7944,31 @@
        x="683.24811"
        y="345.8588"
        id="text3455-6-0-2-5"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
          sodipodi:role="line"
          id="tspan3457-3-2-9-2"
          x="683.24811"
          y="345.8588"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.62466px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;stroke-width:0.158847"><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.158847"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.158847"
            id="tspan3475-2-3-0-6">LLLL</tspan><tspan
-           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ffdd55;stroke-width:0.158847"
+           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ff8c00;stroke-width:0.158847"
            id="tspan3459-1-3-8-2">XX</tspan><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.158847"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.158847"
            id="tspan3477-7-0-2-9">L</tspan><tspan
-           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ffdd55;stroke-width:0.158847"
+           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ff8c00;stroke-width:0.158847"
            id="tspan3461-3-1-4-3">XX</tspan><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.158847"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.158847"
            id="tspan3479-2-7-7-8">LL</tspan><tspan
-           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ffdd55;stroke-width:0.158847"
+           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ff8c00;stroke-width:0.158847"
            id="tspan3463-1-5-1-1">XX</tspan><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.158847"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.158847"
            id="tspan3481-2-1-4-9">L</tspan><tspan
-           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ffdd55;stroke-width:0.158847"
+           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ff8c00;stroke-width:0.158847"
            id="tspan3465-6-4-7-2">XX</tspan><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.158847"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.158847"
            id="tspan3485-3-6-4-7">LLLLL</tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -7965,36 +7976,38 @@
        x="589.62402"
        y="346.17648"
        id="text3455-6-0-9-1"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
          sodipodi:role="line"
          id="tspan3457-3-2-0-9"
          x="589.62402"
          y="346.17648"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.62466px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;stroke-width:0.158847"><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.158847"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.158847"
            id="tspan3475-2-3-4-8">LLL</tspan><tspan
-           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#8d5fd3;stroke-width:0.158847"
+           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#8a2be2;stroke-width:0.158847"
            id="tspan3459-1-3-2-3">XX</tspan><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.158847"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.158847"
            id="tspan3477-7-0-9-7">LL</tspan><tspan
-           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#8d5fd3;stroke-width:0.158847"
+           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#8a2be2;stroke-width:0.158847"
            id="tspan3461-3-1-1-8">XX</tspan><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.158847"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.158847"
            id="tspan3479-2-7-4-3">LL</tspan><tspan
-           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#8d5fd3;stroke-width:0.158847"
+           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#8a2be2;stroke-width:0.158847"
            id="tspan3463-1-5-6-5">XX</tspan><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.158847"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.158847"
            id="tspan3481-2-1-7-5">LL</tspan><tspan
-           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#8d5fd3;stroke-width:0.158847"
+           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#8a2be2;stroke-width:0.158847"
            id="tspan3465-6-4-6-8">XX</tspan><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.158847"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.158847"
            id="tspan3485-3-6-3-3">LLLL</tspan></tspan></text>
     <g
        id="g5571-9-7-9-2-9-8-6-7"
-       transform="matrix(3.8115378,0,0,2.2838425,433.4856,-693.34456)"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120">
+       transform="matrix(3.8115378,0,0,2.2838425,433.48561,-693.34456)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png">
       <path
          inkscape:connector-curvature="0"
          id="path5497-8-1-4-1-3-6-3-0"
@@ -8012,30 +8025,31 @@
        x="769.742"
        y="345.8588"
        id="text3455-6-0-2-5-6"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
          sodipodi:role="line"
          id="tspan3457-3-2-9-2-3"
          x="769.742"
          y="345.8588"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.62466px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;stroke-width:0.158847"><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.158847"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.158847"
            id="tspan3475-2-3-0-6-6">LLL</tspan><tspan
-           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ffdd55;stroke-width:0.158847"
+           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ff8c00;stroke-width:0.158847"
            id="tspan3459-1-3-8-2-5">XX</tspan><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.158847"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.158847"
            id="tspan3477-7-0-2-9-6">LL</tspan><tspan
-           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ffdd55;stroke-width:0.158847"
+           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ff8c00;stroke-width:0.158847"
            id="tspan3461-3-1-4-3-7">XX</tspan><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.158847"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.158847"
            id="tspan3479-2-7-7-8-6">L</tspan><tspan
-           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ffdd55;stroke-width:0.158847"
+           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ff8c00;stroke-width:0.158847"
            id="tspan3463-1-5-1-1-4">XX</tspan><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.158847"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.158847"
            id="tspan3481-2-1-4-9-3">LL</tspan><tspan
-           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ffdd55;stroke-width:0.158847"
+           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ff8c00;stroke-width:0.158847"
            id="tspan3465-6-4-7-2-9">XX</tspan><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.158847"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.158847"
            id="tspan3485-3-6-4-7-2">LLLLL</tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -8043,36 +8057,38 @@
        x="856.77722"
        y="345.8588"
        id="text3455-6-0-2-5-6-1"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
          sodipodi:role="line"
          id="tspan3457-3-2-9-2-3-2"
          x="856.77722"
          y="345.8588"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.62466px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;stroke-width:0.158847"><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.158847"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.158847"
            id="tspan3475-2-3-0-6-6-8">LLLL</tspan><tspan
-           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ffdd55;stroke-width:0.158847"
+           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ff8c00;stroke-width:0.158847"
            id="tspan3459-1-3-8-2-5-2">XX</tspan><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.158847"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.158847"
            id="tspan3477-7-0-2-9-6-9">LL</tspan><tspan
-           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ffdd55;stroke-width:0.158847"
+           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ff8c00;stroke-width:0.158847"
            id="tspan3461-3-1-4-3-7-6">XX</tspan><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.158847"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.158847"
            id="tspan3479-2-7-7-8-6-1">L</tspan><tspan
-           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ffdd55;stroke-width:0.158847"
+           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ff8c00;stroke-width:0.158847"
            id="tspan3463-1-5-1-1-4-7">XX</tspan><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.158847"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.158847"
            id="tspan3481-2-1-4-9-3-5">LL</tspan><tspan
-           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ffdd55;stroke-width:0.158847"
+           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#ff8c00;stroke-width:0.158847"
            id="tspan3465-6-4-7-2-9-7">XX</tspan><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.158847"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.158847"
            id="tspan3485-3-6-4-7-2-0">LLLL</tspan></tspan></text>
     <g
        id="g4435-0"
        transform="matrix(0.1588468,0,0,0.1588468,199.81465,142.86619)"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120">
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png">
       <g
          id="g21296-9-6-33-2-4"
          transform="rotate(-20,6252.3265,3487.9964)">
@@ -8346,11 +8362,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-74"
        y="284.90732"
        x="483.18198"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#696969;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#008000;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#696969;fill-opacity:1;stroke-width:0.158847"
          y="284.90732"
          x="483.18198"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-4"
@@ -8359,11 +8376,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-3-6"
        y="308.29715"
        x="489.08478"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#696969;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#008000;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#696969;fill-opacity:1;stroke-width:0.158847"
          y="308.29715"
          x="489.08478"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-6-1"
@@ -8372,11 +8390,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-7-9"
        y="289.77017"
        x="493.23315"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#696969;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#008000;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#696969;fill-opacity:1;stroke-width:0.158847"
          y="289.77017"
          x="493.23315"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-9-0"
@@ -8385,11 +8404,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-5-9"
        y="296.27557"
        x="486.14624"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#696969;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#008000;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#696969;fill-opacity:1;stroke-width:0.158847"
          y="296.27557"
          x="486.14624"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-95-4"
@@ -8398,11 +8418,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-8-9"
        y="301.79172"
        x="496.17166"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#696969;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#008000;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#696969;fill-opacity:1;stroke-width:0.158847"
          y="301.79172"
          x="496.17166"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-62-1"
@@ -8411,8 +8432,9 @@
        id="g28727-5-8"
        style="opacity:0.5"
        transform="matrix(0.1588468,0,0,0.1588468,295.12275,142.8662)"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120">
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png">
       <g
          id="g21296-0-9-9-2-86-1"
          transform="rotate(20,-1730.199,-4642.3275)">
@@ -8558,11 +8580,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-6-1"
        y="319.49133"
        x="491.96759"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#696969;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#008000;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#696969;fill-opacity:1;stroke-width:0.158847"
          y="319.49133"
          x="491.96759"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-7-7"
@@ -8571,11 +8594,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-4-5"
        y="312.9859"
        x="499.05447"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#696969;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#008000;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#696969;fill-opacity:1;stroke-width:0.158847"
          y="312.9859"
          x="499.05447"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-64-7"
@@ -8584,11 +8608,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-9-4"
        y="278.40189"
        x="490.26886"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#696969;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#008000;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#696969;fill-opacity:1;stroke-width:0.158847"
          y="278.40189"
          x="490.26886"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-5-1"
@@ -8596,8 +8621,9 @@
     <g
        id="g4435-0-8"
        transform="matrix(0.1588468,0,0,0.1588468,295.74675,142.64806)"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120">
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png">
       <g
          id="g21296-9-6-33-2-4-6"
          transform="rotate(-20,6252.3265,3487.9964)">
@@ -8871,11 +8897,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-74-7"
        y="284.68918"
        x="579.11407"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#7137c8;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#8a2be2;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#7137c8;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#8a2be2;fill-opacity:1;stroke-width:0.158847"
          y="284.68918"
          x="579.11407"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-4-4"
@@ -8884,11 +8911,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-3-6-3"
        y="308.07901"
        x="585.01685"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#7137c8;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#8a2be2;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#7137c8;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#8a2be2;fill-opacity:1;stroke-width:0.158847"
          y="308.07901"
          x="585.01685"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-6-1-5"
@@ -8897,11 +8925,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-7-9-5"
        y="289.55206"
        x="589.16522"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#7137c8;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#8a2be2;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#7137c8;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#8a2be2;fill-opacity:1;stroke-width:0.158847"
          y="289.55206"
          x="589.16522"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-9-0-7"
@@ -8910,11 +8939,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-5-9-1"
        y="296.0574"
        x="582.07837"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#7137c8;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#8a2be2;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#7137c8;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#8a2be2;fill-opacity:1;stroke-width:0.158847"
          y="296.0574"
          x="582.07837"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-95-4-5"
@@ -8923,11 +8953,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-8-9-2"
        y="301.57358"
        x="592.10376"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#7137c8;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#8a2be2;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#7137c8;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#8a2be2;fill-opacity:1;stroke-width:0.158847"
          y="301.57358"
          x="592.10376"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-62-1-8"
@@ -8935,9 +8966,10 @@
     <g
        id="g28727-5-8-0"
        style="opacity:0.5"
-       transform="matrix(0.1588468,0,0,0.1588468,391.05482,142.64807)"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120">
+       transform="matrix(0.1588468,0,0,0.1588468,391.05483,142.64807)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png">
       <g
          id="g21296-0-9-9-2-86-1-3"
          transform="rotate(20,-1730.199,-4642.3275)">
@@ -9083,11 +9115,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-6-1-0"
        y="319.27316"
        x="587.89966"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#7137c8;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#8a2be2;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#7137c8;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#8a2be2;fill-opacity:1;stroke-width:0.158847"
          y="319.27316"
          x="587.89966"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-7-7-9"
@@ -9096,11 +9129,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-4-5-6"
        y="312.76776"
        x="594.98657"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#7137c8;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#8a2be2;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#7137c8;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#8a2be2;fill-opacity:1;stroke-width:0.158847"
          y="312.76776"
          x="594.98657"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-64-7-1"
@@ -9109,18 +9143,22 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-9-4-5"
        y="278.18378"
        x="586.20099"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#7137c8;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#8a2be2;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#7137c8;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#8a2be2;fill-opacity:1;stroke-width:0.158847"
          y="278.18378"
          x="586.20099"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-5-1-1"
          sodipodi:role="line">X</tspan></text>
     <g
        id="g13652-1"
-       transform="matrix(0.13096529,0.08989104,-0.08989104,0.13096529,533.24421,7.7911525)">
+       transform="matrix(0.13096529,0.08989104,-0.08989104,0.13096529,533.24422,7.7911525)"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          id="g21296-9-6-33-2-4-0-7"
          transform="rotate(-20,6252.3265,3487.9964)">
@@ -9284,7 +9322,10 @@
     </g>
     <g
        id="g23242-8-6-1-2-1"
-       transform="matrix(0.13927078,0.07639343,-0.07639343,0.13927078,395.02585,231.84211)">
+       transform="matrix(0.13927078,0.07639343,-0.07639343,0.13927078,395.02586,231.84211)"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          id="g4400-3-0-3-9-43-7-0-1-5"
          transform="translate(696.43793,-1043.3239)">
@@ -9310,7 +9351,10 @@
     </g>
     <g
        id="g23242-9-6-9-1-58-9"
-       transform="matrix(0.13927078,0.07639343,-0.07639343,0.13927078,386.0964,266.38926)">
+       transform="matrix(0.13927078,0.07639343,-0.07639343,0.13927078,386.09641,266.38926)"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          id="g4400-3-0-3-9-4-0-0-4-0-3"
          transform="translate(696.43793,-1043.3239)">
@@ -9335,8 +9379,11 @@
       </g>
     </g>
     <g
-       transform="matrix(0.13927078,0.07639343,-0.07639343,0.13927078,396.40618,231.72271)"
-       id="g23427-51-4-2-03-5">
+       transform="matrix(0.13927078,0.07639343,-0.07639343,0.13927078,396.40619,231.72271)"
+       id="g23427-51-4-2-03-5"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          transform="translate(11.403799,76.405708)"
          id="g23242-5-8-4-5-3-42">
@@ -9366,7 +9413,10 @@
     </g>
     <g
        id="g23242-5-3-2-20-7-2-6"
-       transform="matrix(0.13927078,0.07639343,-0.07639343,0.13927078,388.95242,255.18823)">
+       transform="matrix(0.13927078,0.07639343,-0.07639343,0.13927078,388.95243,255.18823)"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          id="g4400-3-0-3-9-9-9-4-7-7-2-8"
          transform="translate(696.43793,-1043.3239)">
@@ -9394,11 +9444,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-74-3-4"
        y="285.54541"
        x="687.23773"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffdd55;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
          y="285.54541"
          x="687.23773"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-4-7-05"
@@ -9407,11 +9458,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-3-6-7-2"
        y="308.90662"
        x="680.62036"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffdd55;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
          y="308.90662"
          x="680.62036"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-6-1-4-7"
@@ -9420,11 +9472,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-7-9-2-77"
        y="294.59119"
        x="693.55176"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffdd55;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
          y="294.59119"
          x="693.55176"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-9-0-3-1"
@@ -9433,11 +9486,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-5-9-4-51"
        y="296.68597"
        x="684.15533"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffdd55;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
          y="296.68597"
          x="684.15533"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-95-4-9-1"
@@ -9446,11 +9500,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-8-9-7-8"
        y="306.48462"
        x="690.44354"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffdd55;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
          y="306.48462"
          x="690.44354"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-62-1-1-5"
@@ -9459,11 +9514,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-6-1-8-5"
        y="320.08176"
        x="678.01135"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffdd55;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
          y="320.08176"
          x="678.01135"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-7-7-6-6"
@@ -9472,11 +9528,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-4-5-65-83"
        y="317.76877"
        x="687.38879"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffdd55;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
          y="317.76877"
          x="687.38879"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-64-7-9-5"
@@ -9484,9 +9541,10 @@
     <g
        id="g28727-5-8-3-4-0-8"
        style="opacity:0.5"
-       transform="matrix(0.14746572,-0.05904376,0.05904376,0.14746572,449.28845,231.53315)"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120">
+       transform="matrix(0.14746572,-0.05904376,0.05904376,0.14746572,449.28846,231.53315)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png">
       <g
          id="g21296-0-9-9-2-86-1-2-5-7-8"
          transform="rotate(20,-1730.199,-4642.3275)">
@@ -9632,18 +9690,22 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-9-4-8-0"
        y="283.23242"
        x="696.72424"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffdd55;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
          y="283.23242"
          x="696.72424"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-5-1-9-4"
          sodipodi:role="line">X</tspan></text>
     <g
        id="g13652-1-1"
-       transform="matrix(0.11825776,0.10605379,-0.10605379,0.11825776,649.11464,-13.736733)">
+       transform="matrix(0.11825776,0.10605379,-0.10605379,0.11825776,649.11465,-13.736734)"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          id="g21296-9-6-33-2-4-0-7-4"
          transform="rotate(-20,6252.3265,3487.9964)">
@@ -9807,7 +9869,10 @@
     </g>
     <g
        id="g23242-8-6-1-2-7-9-0"
-       transform="matrix(0.12823706,0.093742,-0.093742,0.12823706,485.33952,180.09757)">
+       transform="matrix(0.12823706,0.093742,-0.093742,0.12823706,485.33953,180.09757)"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          id="g4400-3-0-3-9-43-7-0-1-7-0-3"
          transform="translate(695.46349,-863.14247)">
@@ -9835,18 +9900,22 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-74-3-9-9"
        y="270.99191"
        x="767.96667"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffdd55;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
          y="270.99191"
          x="767.96667"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-4-7-8-6"
          sodipodi:role="line">X</tspan></text>
     <g
        id="g23242-9-6-9-1-58-5-3-6"
-       transform="matrix(0.12823706,0.093742,-0.093742,0.12823706,469.16342,223.36816)">
+       transform="matrix(0.12823706,0.093742,-0.093742,0.12823706,469.16343,223.36816)"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          id="g4400-3-0-3-9-4-0-0-4-0-9-0-4"
          transform="translate(696.43793,-1043.3239)">
@@ -9871,8 +9940,11 @@
       </g>
     </g>
     <g
-       transform="matrix(0.12823706,0.093742,-0.093742,0.12823706,486.72371,180.15747)"
-       id="g23427-51-4-2-03-0-1-1">
+       transform="matrix(0.12823706,0.093742,-0.093742,0.12823706,486.72372,180.15747)"
+       id="g23427-51-4-2-03-0-1-1"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          transform="translate(11.403799,76.405708)"
          id="g23242-5-8-4-5-3-4-4-3">
@@ -9902,7 +9974,10 @@
     </g>
     <g
        id="g23242-5-3-2-20-7-2-1-6-6"
-       transform="matrix(0.12823706,0.093742,-0.093742,0.12823706,473.44226,212.62985)">
+       transform="matrix(0.12823706,0.093742,-0.093742,0.12823706,473.44227,212.62985)"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          id="g4400-3-0-3-9-9-9-4-7-7-2-5-4-6"
          transform="translate(696.43793,-1043.3239)">
@@ -9930,11 +10005,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-3-6-7-1-7"
        y="303.76212"
        x="756.29907"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffdd55;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
          y="303.76212"
          x="756.29907"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-6-1-4-2-9"
@@ -9943,11 +10019,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-7-9-2-7-6"
        y="281.30847"
        x="773.3277"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffdd55;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
          y="281.30847"
          x="773.3277"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-9-0-3-0-8"
@@ -9956,11 +10033,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-5-9-4-3-8"
        y="281.81482"
        x="763.29572"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffdd55;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
          y="281.81482"
          x="763.29572"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-95-4-9-0-0"
@@ -9969,11 +10047,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-8-9-7-1-9"
        y="302.92856"
        x="765.80457"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffdd55;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
          y="302.92856"
          x="765.80457"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-62-1-1-9-0"
@@ -9982,11 +10061,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-6-1-8-9-7"
        y="292.7052"
        x="769.44427"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffdd55;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
          y="292.7052"
          x="769.44427"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-7-7-6-0-3"
@@ -9995,11 +10075,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-4-5-65-8-5"
        y="313.57733"
        x="761.47906"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffdd55;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
          y="313.57733"
          x="761.47906"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-64-7-9-6-4"
@@ -10008,11 +10089,12 @@
        id="text4396-2-3-85-6-8-4-4-7-8-78-9-4-8-1-2"
        y="293.28198"
        x="760.43768"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffdd55;fill-opacity:1;stroke-width:0.158847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
          y="293.28198"
          x="760.43768"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-5-1-9-7-0"
@@ -10020,9 +10102,10 @@
     <g
        id="g28727-5-8-3-4-0-8-5-4"
        style="opacity:0.5"
-       transform="matrix(0.12247991,-0.10114829,0.10114829,0.12247991,523.57062,303.82698)"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120">
+       transform="matrix(0.12247991,-0.10114829,0.10114829,0.12247991,523.57063,303.82698)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png">
       <g
          id="g21296-0-9-9-2-86-1-2-5-7-8-4-1"
          transform="rotate(20,-1730.199,-4642.3275)">
@@ -10166,7 +10249,10 @@
     </g>
     <g
        id="g13652-1-6"
-       transform="matrix(0.11825776,0.10605379,-0.10605379,0.11825776,736.03249,-12.646098)">
+       transform="matrix(0.11825776,0.10605379,-0.10605379,0.11825776,736.0325,-12.646098)"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          id="g21296-9-6-33-2-4-0-7-0"
          transform="rotate(-20,6252.3265,3487.9964)">
@@ -10330,7 +10416,10 @@
     </g>
     <g
        id="g23242-8-6-1-2-7"
-       transform="matrix(0.12823706,0.093742,-0.093742,0.12823706,570.11207,191.50074)">
+       transform="matrix(0.12823706,0.093742,-0.093742,0.12823706,570.11208,191.50074)"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          id="g4400-3-0-3-9-43-7-0-1-7"
          transform="translate(696.43793,-1043.3239)">
@@ -10356,7 +10445,10 @@
     </g>
     <g
        id="g23242-9-6-9-1-58-5"
-       transform="matrix(0.12823706,0.093742,-0.093742,0.12823706,556.79527,224.60509)">
+       transform="matrix(0.12823706,0.093742,-0.093742,0.12823706,556.79528,224.60509)"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          id="g4400-3-0-3-9-4-0-0-4-0-9"
          transform="translate(696.43793,-1043.3239)">
@@ -10381,8 +10473,11 @@
       </g>
     </g>
     <g
-       transform="matrix(0.12823706,0.093742,-0.093742,0.12823706,571.49629,191.56062)"
-       id="g23427-51-4-2-03-0">
+       transform="matrix(0.12823706,0.093742,-0.093742,0.12823706,571.4963,191.56062)"
+       id="g23427-51-4-2-03-0"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          transform="translate(11.403799,76.405708)"
          id="g23242-5-8-4-5-3-4">
@@ -10412,7 +10507,10 @@
     </g>
     <g
        id="g23242-5-3-2-20-7-2-1"
-       transform="matrix(0.12823706,0.093742,-0.093742,0.12823706,561.07411,213.86679)">
+       transform="matrix(0.12823706,0.093742,-0.093742,0.12823706,561.07412,213.86679)"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          id="g4400-3-0-3-9-9-9-4-7-7-2-5"
          transform="translate(696.43793,-1043.3239)">
@@ -10438,88 +10536,95 @@
     </g>
     <text
        id="text4396-2-3-85-6-8-4-4-7-8-78-74-3-0"
-       y="282.28598"
-       x="853.28467"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       y="282.46478"
+       x="853.05103"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke-width:0.158847"
-         y="282.28598"
-         x="853.28467"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
+         y="282.46478"
+         x="853.05103"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-4-7-0"
          sodipodi:role="line">X</tspan></text>
     <text
        id="text4396-2-3-85-6-8-4-4-7-8-78-3-6-7-4"
-       y="304.69412"
-       x="844.12579"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       y="305.10651"
+       x="843.89215"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke-width:0.158847"
-         y="304.69412"
-         x="844.12579"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
+         y="305.10651"
+         x="843.89215"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-6-1-4-8"
          sodipodi:role="line">X</tspan></text>
     <text
        id="text4396-2-3-85-6-8-4-4-7-8-78-7-9-2-2"
-       y="292.60254"
-       x="858.64557"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       y="292.78134"
+       x="858.41193"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke-width:0.158847"
-         y="292.60254"
-         x="858.64557"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
+         y="292.78134"
+         x="858.41193"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-9-0-3-7"
          sodipodi:role="line">X</tspan></text>
     <text
        id="text4396-2-3-85-6-8-4-4-7-8-78-5-9-4-5"
-       y="293.10889"
-       x="848.61377"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       y="293.63806"
+       x="848.49695"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke-width:0.158847"
-         y="293.10889"
-         x="848.61377"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
+         y="293.63806"
+         x="848.49695"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-95-4-9-4"
          sodipodi:role="line">X</tspan></text>
     <text
        id="text4396-2-3-85-6-8-4-4-7-8-78-8-9-7-2"
-       y="303.86057"
-       x="853.63123"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       y="304.03937"
+       x="853.39758"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke-width:0.158847"
-         y="303.86057"
-         x="853.63123"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
+         y="304.03937"
+         x="853.39758"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-62-1-1-6"
          sodipodi:role="line">X</tspan></text>
     <text
        id="text4396-2-3-85-6-8-4-4-7-8-78-6-1-8-0"
-       y="315.23386"
-       x="839.92816"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       y="315.87982"
+       x="839.69452"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke-width:0.158847"
-         y="315.23386"
-         x="839.92816"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
+         y="315.87982"
+         x="839.69452"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-7-7-6-1"
          sodipodi:role="line">X</tspan></text>
     <g
        id="g28727-5-8-3-4-0-8-5"
        style="opacity:0.5"
-       transform="matrix(0.13445834,-0.08457695,0.08457695,0.13445834,608.56124,273.7438)"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120">
+       transform="matrix(0.13445834,-0.08457695,0.08457695,0.13445834,608.56125,273.7438)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png">
       <g
          id="g21296-0-9-9-2-86-1-2-5-7-8-4"
          transform="rotate(20,-1730.199,-4642.3275)">
@@ -10663,28 +10768,30 @@
     </g>
     <text
        id="text4396-2-3-85-6-8-4-4-7-8-78-4-5-65-6"
-       y="314.50934"
-       x="849.30566"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       y="314.68814"
+       x="849.07202"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke-width:0.158847"
-         y="314.50934"
-         x="849.30566"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
+         y="314.68814"
+         x="849.07202"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-64-7-9-2"
          sodipodi:role="line">X</tspan></text>
     <text
        id="text4396-2-3-85-6-8-4-4-7-8-78-9-4-8-9"
-       y="281.56146"
-       x="862.77112"
-       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.158847"
+       y="281.74026"
+       x="862.53748"
+       style="font-style:normal;font-weight:normal;font-size:1.90616px;line-height:0%;font-family:monospace;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:0.158847"
        xml:space="preserve"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke-width:0.158847"
-         y="281.56146"
-         x="862.77112"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35385px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#ff8c00;fill-opacity:1;stroke-width:0.158847"
+         y="281.74026"
+         x="862.53748"
          id="tspan4398-2-9-7-9-7-5-2-0-2-5-5-1-9-3"
          sodipodi:role="line">X</tspan></text>
     <text
@@ -10693,55 +10800,65 @@
        x="497.03912"
        y="346.17648"
        id="text3455-6-0-9-1-2"
-       inkscape:export-xdpi="120"
-       inkscape:export-ydpi="120"><tspan
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"><tspan
          sodipodi:role="line"
          id="tspan3457-3-2-0-9-7"
          x="497.03912"
          y="346.17648"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.62466px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle;stroke-width:0.159;stroke-miterlimit:4;stroke-dasharray:none"><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.159;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.159;stroke-miterlimit:4;stroke-dasharray:none"
            id="tspan3475-2-3-4-8-4">LLL</tspan><tspan
-           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.159;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#696969;stroke-width:0.159;stroke-miterlimit:4;stroke-dasharray:none"
            id="tspan3459-1-3-2-3-9">XX</tspan><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.159;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.159;stroke-miterlimit:4;stroke-dasharray:none"
            id="tspan3477-7-0-9-7-8">LL</tspan><tspan
-           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.159;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#696969;stroke-width:0.159;stroke-miterlimit:4;stroke-dasharray:none"
            id="tspan3461-3-1-1-8-0">XX</tspan><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.159;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.159;stroke-miterlimit:4;stroke-dasharray:none"
            id="tspan3479-2-7-4-3-2">LL</tspan><tspan
-           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.159;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#696969;stroke-width:0.159;stroke-miterlimit:4;stroke-dasharray:none"
            id="tspan3463-1-5-6-5-3">XX</tspan><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.159;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.159;stroke-miterlimit:4;stroke-dasharray:none"
            id="tspan3481-2-1-7-5-7">LL</tspan><tspan
-           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.159;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-weight:bold;font-family:monospace;text-align:center;text-anchor:middle;fill:#696969;stroke-width:0.159;stroke-miterlimit:4;stroke-dasharray:none"
            id="tspan3465-6-4-6-8-9">XX</tspan><tspan
-           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.159;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-size:5.71849px;font-family:monospace;text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:0.159;stroke-miterlimit:4;stroke-dasharray:none"
            id="tspan3485-3-6-3-3-5">LLLL</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.2537089,0,0,0.2537089,419.73772,6.9324598)"
+       transform="matrix(0.2537089,0,0,0.2537089,419.73773,6.9324606)"
        id="text7162"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7164);fill:#000000;fill-opacity:1;stroke:none"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7164);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          x="196.16016"
-         y="917.76842"
-         id="tspan70705">GASright</tspan></text>
+         y="917.65057"
+         id="tspan148991">GASright</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.30670987,0,0,0.30670987,513.05441,-39.777348)"
+       transform="matrix(0.30670987,0,0,0.30670987,513.05442,-39.777348)"
        id="text7162-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.7054px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7164-4);fill:#000000;fill-opacity:1;stroke:none"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.7054px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7164-4);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          x="196.16016"
-         y="910.201"
-         id="tspan70707">Right</tspan></text>
+         y="910.10352"
+         id="tspan148993">Right</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.1588468,0,0,0.1588468,726.57157,94.309223)"
+       transform="matrix(0.1588468,0,0,0.1588468,726.57158,94.309223)"
        id="text7162-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:76.6652px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7164-5);fill:#000000;fill-opacity:1;stroke:none"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:76.6652px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7164-5);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          x="196.16016"
-         y="943.92055"
-         id="tspan70709">Left</tspan></text>
+         y="943.73232"
+         id="tspan148995">Left</tspan></text>
     <image
        width="544.07086"
        height="258.7937"
@@ -10750,39 +10867,51 @@
        id="image844"
        x="296.04474"
        y="180.26468"
-       inkscape:export-filename="D:\github\Sequence-Design\van_der_Waals_Paper\figures\png\alternate_sequence_design_image.png"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="fill:#000000;fill-opacity:0;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
        clip-path="url(#clipPath89820-8)"
-       transform="matrix(0.75092943,0,0,0.75092943,-102.35736,263.24776)" />
+       transform="matrix(0.75092944,0,0,0.75092944,-102.35736,263.24776)" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,449.60896,401.22147)"
+       transform="matrix(0.26458333,0,0,0.26458333,449.60895,401.22147)"
        id="text51479-8-3-7"
-       style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect51481-0-2-8);fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><tspan
+       style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect51481-0-2-8);fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          x="-15.892578"
-         y="57.564179"
-         id="tspan70711">D</tspan></text>
+         y="57.328486"
+         id="tspan148997">D</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,104.9158,401.22147)"
        id="text51479-8-3"
-       style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect51481-0-2);fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><tspan
+       style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect51481-0-2);fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          x="-15.892578"
-         y="57.564179"
-         id="tspan70713">C</tspan></text>
+         y="57.328486"
+         id="tspan148999">C</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,439.2662,201.89643)"
        id="text51479-8"
-       style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect51481-0);fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><tspan
+       style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect51481-0);fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          x="-15.892578"
-         y="57.564179"
-         id="tspan70715">B</tspan></text>
+         y="57.328486"
+         id="tspan149001">B</tspan></text>
     <g
        id="g64879"
-       transform="translate(0.52916667,6.3500003)">
+       transform="translate(0.52916694,6.3500015)"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          clip-path="url(#clip0)"
          transform="matrix(0.5049398,0,0,0.5049398,175.01537,281.38749)"
@@ -10863,7 +10992,10 @@
        style="font-style:normal;font-weight:normal;font-size:10.8687px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.452863;stroke-linecap:butt;stroke-linejoin:round"
        x="243.89917"
        y="407.28198"
-       id="text21994"><tspan
+       id="text21994"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan21992"
          style="font-size:10.8687px;stroke-width:0.452863"
@@ -10875,7 +11007,10 @@
        x="-328.61145"
        y="136.22937"
        id="text21994-9"
-       transform="rotate(-90.736207)"><tspan
+       transform="rotate(-90.736207,-4.1990165e-7,-6.9618772e-7)"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\MP_design\mp_design.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan21992-1"
          style="font-size:10.8687px;stroke-width:0.452863"
