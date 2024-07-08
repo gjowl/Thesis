@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.25"
-     inkscape:cx="5272"
-     inkscape:cy="2744"
+     inkscape:cx="5270"
+     inkscape:cy="2746"
      inkscape:window-width="3840"
      inkscape:window-height="2036"
      inkscape:window-x="-12"
@@ -56,21 +56,21 @@
          y="332.9765">xShift</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:42.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811"
-       x="9.3913469"
-       y="-68.284439"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.004px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.97249"
+       x="8.3272028"
+       y="-59.622803"
        id="text3729-5"
        inkscape:export-filename="D:\github\Thesis\computational_chapter\left_rot_v_z.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan3727-1"
-         style="font-weight:bold;font-size:42.3333px;stroke-width:1.51811"
-         x="9.3913469"
-         y="-68.284439">Left zShift vs axialRotation Grid</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.004px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.97249"
+         x="8.3272028"
+         y="-59.622803">Left zShift vs axialRotation Grid</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:28.2222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811"
+       style="font-style:normal;font-weight:normal;font-size:28.2222px;line-height:1.25;font-family:Calibri;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="-116.75414"
        y="39.114845"
        id="text3729-9"
@@ -80,13 +80,13 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         style="font-size:28.2222px;stroke-width:1.51811"
+         style="font-size:28.22220136px;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-family:Calibri;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="-116.75414"
          y="39.114845"
          id="tspan13849">8.5</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:28.2222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811"
+       style="font-style:normal;font-weight:normal;font-size:28.22220136px;line-height:1.25;font-family:Calibri;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="-116.86702"
        y="155.25377"
        id="text3729-9-0"
@@ -96,13 +96,13 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         style="font-size:28.2222px;stroke-width:1.51811"
+         style="font-size:28.22220136px;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-family:Calibri;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="-116.86702"
          y="155.25377"
          id="tspan13849-6">8.7</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:28.2222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811"
+       style="font-style:normal;font-weight:normal;font-size:28.22220136px;line-height:1.25;font-family:Calibri;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="-116.82469"
        y="271.3927"
        id="text3729-9-8"
@@ -112,13 +112,13 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         style="font-size:28.2222px;stroke-width:1.51811"
+         style="font-size:28.22220136px;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-family:Calibri;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="-116.82469"
          y="271.3927"
          id="tspan13849-8">8.9</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:28.2222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811"
+       style="font-style:normal;font-weight:normal;font-size:28.22220136px;line-height:1.25;font-family:Calibri;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="-114.34114"
        y="387.39053"
        id="text3729-9-7"
@@ -128,13 +128,13 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         style="font-size:28.2222px;stroke-width:1.51811"
+         style="font-size:28.22220136px;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-family:Calibri;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="-114.34114"
          y="387.39053"
          id="tspan13849-7">9.1</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:28.2222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811"
+       style="font-style:normal;font-weight:normal;font-size:28.22220136px;line-height:1.25;font-family:Calibri;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="-116.59892"
        y="503.67053"
        id="text3729-9-3"
@@ -144,13 +144,13 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         style="font-size:28.2222px;stroke-width:1.51811"
+         style="font-size:28.22220136px;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-family:Calibri;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="-116.59892"
          y="503.67053"
          id="tspan13849-3">9.3</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:28.2222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811"
+       style="font-style:normal;font-weight:normal;font-size:28.22220136px;line-height:1.25;font-family:Calibri;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="-116.59892"
        y="619.66833"
        id="text3729-9-5"
@@ -160,13 +160,13 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         style="font-size:28.2222px;stroke-width:1.51811"
+         style="font-size:28.22220136px;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-family:Calibri;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="-116.59892"
          y="619.66833"
          id="tspan13849-35">9.5</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:28.2222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811"
+       style="font-style:normal;font-weight:normal;font-size:28.22220136px;line-height:1.25;font-family:Calibri;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="12.763141"
        y="710.2478"
        id="text3729-9-70"
@@ -176,13 +176,13 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         style="font-size:28.2222px;stroke-width:1.51811"
+         style="font-size:28.22220136px;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-family:Calibri;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="12.763141"
          y="710.2478"
          id="tspan13849-32">18</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:28.2222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811"
+       style="font-style:normal;font-weight:normal;font-size:28.22220136px;line-height:1.25;font-family:Calibri;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="153.22343"
        y="710.2478"
        id="text3729-9-4"
@@ -192,13 +192,13 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         style="font-size:28.2222px;stroke-width:1.51811"
+         style="font-size:28.22220136px;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-family:Calibri;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="153.22343"
          y="710.2478"
          id="tspan13849-4">20</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:28.2222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811"
+       style="font-style:normal;font-weight:normal;font-size:28.22220136px;line-height:1.25;font-family:Calibri;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="293.83899"
        y="710.2478"
        id="text3729-9-51"
@@ -208,13 +208,13 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         style="font-size:28.2222px;stroke-width:1.51811"
+         style="font-size:28.22220136px;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-family:Calibri;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="293.83899"
          y="710.2478"
          id="tspan13849-2">22</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:28.2222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811"
+       style="font-style:normal;font-weight:normal;font-size:28.22220136px;line-height:1.25;font-family:Calibri;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="436.74048"
        y="710.30426"
        id="text3729-9-38"
@@ -224,13 +224,13 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         style="font-size:28.2222px;stroke-width:1.51811"
+         style="font-size:28.22220136px;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-family:Calibri;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="436.74048"
          y="710.30426"
          id="tspan13849-5">24</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:28.2222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811"
+       style="font-style:normal;font-weight:normal;font-size:28.22220136px;line-height:1.25;font-family:Calibri;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="575.05585"
        y="710.2478"
        id="text3729-9-76"
@@ -240,13 +240,13 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         style="font-size:28.2222px;stroke-width:1.51811"
+         style="font-size:28.22220136px;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-family:Calibri;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="575.05585"
          y="710.2478"
          id="tspan13849-1">26</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:28.2222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811"
+       style="font-style:normal;font-weight:normal;font-size:28.22220136px;line-height:1.25;font-family:Calibri;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="715.62909"
        y="710.16315"
        id="text3729-9-40"
@@ -256,7 +256,7 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         style="font-size:28.2222px;stroke-width:1.51811"
+         style="font-size:28.22220136px;stroke-width:1.51811;-inkscape-font-specification:'Calibri, Normal';font-family:Calibri;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="715.62909"
          y="710.16315"
          id="tspan13849-28">28</tspan></text>
