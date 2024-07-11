@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="docking_programs.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.3307343"
+     inkscape:cx="541.88932"
+     inkscape:cy="631.34611"
+     inkscape:window-width="3584"
+     inkscape:window-height="1892"
+     inkscape:window-x="5364"
+     inkscape:window-y="425"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1">
+      <path
+         d="M 0.63961236,0.63961236 L 86.507571,0.63961236 L 86.507571,36.457904 L 0.63961236,36.457904 z"
+         id="path831" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2">
+      <path
+         d="M 87.147184,0.63961236 L 342.51242,0.63961236 L 342.51242,36.457904 L 87.147184,36.457904 z"
+         id="path834" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath3">
+      <path
+         d="M 343.31193,0.63961236 L 622.98243,0.63961236 L 622.98243,36.457904 L 343.31193,36.457904 z"
+         id="path837" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath4">
+      <path
+         d="M 0.63961236,37.097517 L 86.507571,37.097517 L 86.507571,108.7341 L 0.63961236,108.7341 z"
+         id="path840" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath5">
+      <path
+         d="M 87.147184,37.097517 L 342.51242,37.097517 L 342.51242,108.7341 L 87.147184,108.7341 z"
+         id="path843" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath6">
+      <path
+         d="M 343.31193,37.097517 L 622.98243,37.097517 L 622.98243,108.7341 L 343.31193,108.7341 z"
+         id="path846" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath7">
+      <path
+         d="M 0.63961236,109.37371 L 86.507571,109.37371 L 86.507571,145.192 L 0.63961236,145.192 z"
+         id="path849" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath8">
+      <path
+         d="M 87.147184,109.37371 L 342.51242,109.37371 L 342.51242,145.192 L 87.147184,145.192 z"
+         id="path852" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath9">
+      <path
+         d="M 343.31193,109.37371 L 622.98243,109.37371 L 622.98243,145.192 L 343.31193,145.192 z"
+         id="path855" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath10">
+      <path
+         d="M 0.63961236,145.83162 L 86.507571,145.83162 L 86.507571,181.64991 L 0.63961236,181.64991 z"
+         id="path858" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath11">
+      <path
+         d="M 87.147184,145.83162 L 342.51242,145.83162 L 342.51242,181.64991 L 87.147184,181.64991 z"
+         id="path861" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath12">
+      <path
+         d="M 343.31193,145.83162 L 622.98243,145.83162 L 622.98243,181.64991 L 343.31193,181.64991 z"
+         id="path864" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath13">
+      <path
+         d="M 0.63961236,182.28952 L 86.507571,182.28952 L 86.507571,218.10781 L 0.63961236,218.10781 z"
+         id="path867" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath14">
+      <path
+         d="M 87.147184,182.28952 L 342.51242,182.28952 L 342.51242,218.10781 L 87.147184,218.10781 z"
+         id="path870" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath15">
+      <path
+         d="M 343.31193,182.28952 L 622.98243,182.28952 L 622.98243,218.10781 L 343.31193,218.10781 z"
+         id="path873" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath16">
+      <path
+         d="M 0.63961236,218.74743 L 86.507571,218.74743 L 86.507571,254.56572 L 0.63961236,254.56572 z"
+         id="path876" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath17">
+      <path
+         d="M 87.147184,218.74743 L 342.51242,218.74743 L 342.51242,254.56572 L 87.147184,254.56572 z"
+         id="path879" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath18">
+      <path
+         d="M 343.31193,218.74743 L 622.98243,218.74743 L 622.98243,254.56572 L 343.31193,254.56572 z"
+         id="path882" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath19">
+      <path
+         d="M 0.63961236,255.20533 L 86.507571,255.20533 L 86.507571,291.02362 L 0.63961236,291.02362 z"
+         id="path885" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath20">
+      <path
+         d="M 87.147184,255.20533 L 342.51242,255.20533 L 342.51242,291.02362 L 87.147184,291.02362 z"
+         id="path888" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath21">
+      <path
+         d="M 343.31193,255.20533 L 622.98243,255.20533 L 622.98243,291.02362 L 343.31193,291.02362 z"
+         id="path891" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       clip-path="url(#clipEmfPath1)"
+       id="g905"
+       transform="matrix(0.26458333,0,0,0.26458333,35.657838,109.51987)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:14.6875px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(7.515445,14.551181)"
+         x="0"
+         y="0"
+         id="text903"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan901"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:700;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan897">Tool</tspan><tspan
+             dx="-1.246704"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:700;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan899"> </tspan></tspan></text>
+    </g>
+    <g
+       clip-path="url(#clipEmfPath2)"
+       id="g915"
+       transform="matrix(0.26458333,0,0,0.26458333,35.657838,109.51987)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:14.6875px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(94.023016,14.551181)"
+         x="0"
+         y="0"
+         id="text913"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan911"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:700;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan907">Source</tspan><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:700;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan909"> </tspan></tspan></text>
+    </g>
+    <g
+       clip-path="url(#clipEmfPath3)"
+       id="g925"
+       transform="matrix(0.26458333,0,0,0.26458333,22.428669,109.51987)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:14.6875px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(350.18777,14.551181)"
+         x="0"
+         y="0"
+         id="text923"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan921">Key Features</tspan></text>
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 35.657838,109.51987 h 0.169231 v 0.16923 h -0.169231 z"
+       id="path927"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 35.657838,109.51987 h 0.169231 v 0.16923 h -0.169231 z"
+       id="path929"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 58.546299,109.51987 h 0.169231 v 0.16923 h -0.169231 z"
+       id="path933"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 126.32322,109.51987 h 0.16923 v 0.16923 h -0.16923 z"
+       id="path937"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199" />
+    <g
+       id="g1604"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 35.827069,109.51987 h 22.71923 v 0.16923 h -22.71923 z"
+         id="path931" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 58.71553,109.51987 h 67.60769 v 0.16923 H 58.71553 Z"
+         id="path935" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 126.49245,109.51987 h 73.99616 v 0.16923 h -73.99616 z"
+         id="path939" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 200.48861,109.51987 h 0.16923 v 0.16923 h -0.16923 z"
+       id="path941"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 200.48861,109.51987 h 0.16923 v 0.16923 h -0.16923 z"
+       id="path943"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199" />
+    <g
+       clip-path="url(#clipEmfPath4)"
+       id="g961"
+       transform="matrix(0.26458333,0,0,0.26458333,35.657838,107.40322)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(7.515445,51.009085)"
+         x="0"
+         y="0"
+         id="text959"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan957"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan953">OCTOPUS</tspan><tspan
+             dx="-0.54448599"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan955"> </tspan></tspan></text>
+    </g>
+    <g
+       clip-path="url(#clipEmfPath5)"
+       id="g971"
+       transform="matrix(0.26458333,0,0,0.26458333,35.657838,107.40322)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(94.023016,51.009085)"
+         x="0"
+         y="0"
+         id="text969"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan967"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan963">octopus.cbr.su.se</tspan><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan965"> </tspan></tspan></text>
+    </g>
+    <g
+       clip-path="url(#clipEmfPath6)"
+       id="g987"
+       transform="matrix(0.26458333,0,0,0.26458333,35.657838,105.28654)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;line-height:243.869%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(350.18777,51.009085)"
+         x="0"
+         y="0"
+         id="text985"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan983"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan973" /></tspan></text>
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 58.546299,119.16602 h 0.169231 v 0.16923 h -0.169231 z"
+       id="path993"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199" />
+    <g
+       id="g1599"
+       transform="matrix(1.0034582,0,0,1,-0.12389585,-4.2333335)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 35.827069,119.16602 h 22.71923 v 0.16923 h -22.71923 z"
+         id="path991" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 58.71553,119.16602 h 67.60769 v 0.16923 H 58.71553 Z"
+         id="path995" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 125.96328,119.16602 h 73.99616 v 0.16923 h -73.99616 z"
+         id="path999" />
+    </g>
+    <g
+       clip-path="url(#clipEmfPath7)"
+       id="g1019"
+       transform="matrix(0.26458333,0,0,0.26458333,35.657838,98.55168)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(7.515445,123.28528)"
+         x="0"
+         y="0"
+         id="text1017"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan1015"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan1011">HADDOCK</tspan><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan1013"> </tspan></tspan></text>
+    </g>
+    <g
+       clip-path="url(#clipEmfPath8)"
+       id="g1029"
+       transform="matrix(0.26458333,0,0,0.26458333,35.657838,98.373316)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(94.023016,123.28528)"
+         x="0"
+         y="0"
+         id="text1027"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan1025"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan1021"
+             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+             dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">rascar.science.uu.nl/haddock2.4 </tspan></tspan></text>
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 58.546299,138.2891 h 0.169231 v 0.16923 h -0.169231 z"
+       id="path1043"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199" />
+    <g
+       id="g1529"
+       transform="matrix(1.003804,0,0,1,-0.13628544,-13.18911)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 35.827069,138.2891 h 22.71923 v 0.16923 h -22.71923 z"
+         id="path1041" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 58.71553,138.2891 h 67.60769 v 0.16923 H 58.71553 Z"
+         id="path1045" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 125.96328,138.2891 h 73.99616 v 0.16923 h -73.99616 z"
+         id="path1049" />
+    </g>
+    <g
+       clip-path="url(#clipEmfPath10)"
+       id="g1069"
+       transform="matrix(0.26458333,0,0,0.26458333,35.657838,99.177055)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(7.515445,159.74319)"
+         x="0"
+         y="0"
+         id="text1067"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan1065"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan1061">PREDDIMER</tspan><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan1063"> </tspan></tspan></text>
+    </g>
+    <g
+       clip-path="url(#clipEmfPath11)"
+       id="g1079"
+       transform="matrix(0.26458333,0,0,0.26458333,35.657838,98.998691)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(94.023016,159.74319)"
+         x="0"
+         y="0"
+         id="text1077"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan1075"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan1071"
+             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+             dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">model.nmr.ru/preddimer </tspan></tspan></text>
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 58.546299,147.93525 h 0.169231 v 0.16923 h -0.169231 z"
+       id="path1093"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199" />
+    <g
+       id="g1534"
+       transform="matrix(1.0027665,0,0,1,-0.09911668,-12.667952)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 35.827069,147.93525 h 22.71923 v 0.16923 h -22.71923 z"
+         id="path1091" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 58.71553,147.93525 h 67.60769 v 0.16923 H 58.71553 Z"
+         id="path1095" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 125.96328,147.93525 h 73.99616 v 0.16923 h -73.99616 z"
+         id="path1099" />
+    </g>
+    <g
+       clip-path="url(#clipEmfPath13)"
+       id="g1119"
+       transform="matrix(0.26458333,0,0,0.26458333,35.657838,99.802436)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(7.515445,196.20109)"
+         x="0"
+         y="0"
+         id="text1117"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan1115"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan1111">EVFOLD</tspan><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan1113"> </tspan></tspan></text>
+    </g>
+    <g
+       clip-path="url(#clipEmfPath14)"
+       id="g1129"
+       transform="matrix(0.26458333,0,0,0.26458333,35.657838,99.623123)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(94.023016,196.20109)"
+         x="0"
+         y="0"
+         id="text1127"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan1125"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan1121"
+             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1.347266"
+             dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">evcouplings.org </tspan></tspan></text>
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 58.546299,157.5814 h 0.169231 v 0.16923 h -0.169231 z"
+       id="path1143"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199" />
+    <g
+       id="g1539"
+       transform="matrix(1.0034582,0,0,1,-0.12389585,-12.146803)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 35.827069,157.5814 h 22.71923 v 0.16923 h -22.71923 z"
+         id="path1141" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 58.71553,157.5814 h 67.60769 v 0.16923 H 58.71553 Z"
+         id="path1145" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 125.96328,157.5814 h 73.99616 v 0.16923 h -73.99616 z"
+         id="path1149" />
+    </g>
+    <g
+       clip-path="url(#clipEmfPath16)"
+       id="g1169"
+       transform="matrix(0.26458333,0,0,0.26458333,35.657838,100.42783)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(7.515445,232.65899)"
+         x="0"
+         y="0"
+         id="text1167"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan1165"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan1161">TOPCONS</tspan><tspan
+             dx="-0.560956"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan1163"> </tspan></tspan></text>
+    </g>
+    <g
+       clip-path="url(#clipEmfPath17)"
+       id="g1179"
+       transform="matrix(0.26458333,0,0,0.26458333,35.657838,100.24947)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(94.023016,232.65899)"
+         x="0"
+         y="0"
+         id="text1177"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan1175"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan1171"
+             dx="0 0 0 0 0 0 0 0 0 0 0 -1.250635"
+             dy="0 0 0 0 0 0 0 0 0 0 0 0">topcons.net </tspan></tspan></text>
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 58.546299,167.22756 h 0.169231 v 0.16923 h -0.169231 z"
+       id="path1193"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199" />
+    <g
+       id="g1544"
+       transform="matrix(1.003804,0,0,1,-0.13628544,-11.62563)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 35.827069,167.22756 h 22.71923 v 0.16923 h -22.71923 z"
+         id="path1191" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 58.71553,167.22756 h 67.60769 v 0.16923 H 58.71553 Z"
+         id="path1195" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 125.96328,167.22756 h 73.99616 v 0.16923 h -73.99616 z"
+         id="path1199" />
+    </g>
+    <g
+       clip-path="url(#clipEmfPath19)"
+       id="g1219"
+       transform="matrix(0.26458333,0,0,0.26458333,35.657838,101.0532)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(7.515445,269.1169)"
+         x="0"
+         y="0"
+         id="text1217"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan1215"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan1211">TMDOCK</tspan><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan1213"> </tspan></tspan></text>
+    </g>
+    <g
+       clip-path="url(#clipEmfPath20)"
+       id="g1229"
+       transform="matrix(0.26458333,0,0,0.26458333,35.657838,101.0532)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(94.023016,269.1169)"
+         x="0"
+         y="0"
+         id="text1227"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan1225"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan1221">membranome.org/tmdock</tspan><tspan
+             dx="-1.0874341"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.6875px;font-family:Calibri;fill:#000000"
+             id="tspan1223"> </tspan></tspan></text>
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 58.546299,176.87371 h 0.169231 v 0.16923 h -0.169231 z"
+       id="path1243"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199" />
+    <g
+       id="g1553"
+       transform="matrix(1.0027665,0,0,1,-0.09911668,-11.104474)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 35.827069,176.87371 h 22.71923 v 0.16923 h -22.71923 z"
+         id="path1241" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 58.71553,176.87371 h 67.60769 v 0.16923 H 58.71553 Z"
+         id="path1245" />
+      <g
+         id="g1547"
+         transform="translate(-0.52916667)">
+        <path
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+           d="m 126.49245,176.87371 h 73.99616 v 0.16923 h -73.99616 z"
+           id="path1249" />
+      </g>
+    </g>
+    <g
+       id="g1576"
+       transform="matrix(1,0,0,0.86225136,0,15.109525)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 58.546299,109.6891 h 0.169231 v 9.47692 h -0.169231 z"
+         id="path947" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="M 58.546299,118.72155 H 58.71553 V 137.6754 H 58.546299 Z"
+         id="path1005" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 58.546299,137.23093 h 0.169231 v 9.47692 h -0.169231 z"
+         id="path1055" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 58.546299,146.26338 h 0.169231 v 9.47692 h -0.169231 z"
+         id="path1105" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 58.546299,155.29583 h 0.169231 v 9.47693 h -0.169231 z"
+         id="path1155" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 58.546299,164.32829 h 0.169231 v 9.47692 h -0.169231 z"
+         id="path1205" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.314155"
+         d="m 58.546299,173.36074 h 0.169231 v 13.36073 h -0.169231 z"
+         id="path1261" />
+    </g>
+    <g
+       id="g1576-8"
+       transform="matrix(1,0,0,0.86225136,-22.888461,15.109525)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 58.546299,109.6891 h 0.169231 v 9.47692 h -0.169231 z"
+         id="path947-2" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="M 58.546299,118.72155 H 58.71553 V 137.6754 H 58.546299 Z"
+         id="path1005-8" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 58.546299,137.23093 h 0.169231 v 9.47692 h -0.169231 z"
+         id="path1055-9" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 58.546299,146.26338 h 0.169231 v 9.47692 h -0.169231 z"
+         id="path1105-1" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 58.546299,155.29583 h 0.169231 v 9.47693 h -0.169231 z"
+         id="path1155-1" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 58.546299,164.32829 h 0.169231 v 9.47692 h -0.169231 z"
+         id="path1205-6" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.314155"
+         d="m 58.546299,173.36074 h 0.169231 v 13.36073 h -0.169231 z"
+         id="path1261-5" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 58.546299,186.51986 h 0.169231 v 0.16924 h -0.169231 z"
+       id="path1263" />
+    <g
+       id="g1585"
+       transform="matrix(1,0,0,0.89594497,-12.7,11.413702)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 126.32322,109.6891 h 0.16923 v 9.47692 h -0.16923 z"
+         id="path949" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 126.32322,118.80608 h 0.16923 v 18.95385 h -0.16923 z"
+         id="path1007" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 126.32322,137.39999 h 0.16923 v 9.47692 h -0.16923 z"
+         id="path1057" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 126.32322,146.84748 h 0.16923 v 9.47692 h -0.16923 z"
+         id="path1107" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 126.32322,156.16312 h 0.16923 v 9.47693 h -0.16923 z"
+         id="path1157" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 126.32322,165.28011 h 0.16923 v 9.47692 h -0.16923 z"
+         id="path1207" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 126.32322,174.39709 h 0.16923 v 9.47692 h -0.16923 z"
+         id="path1267" />
+    </g>
+    <g
+       id="g1585-6"
+       transform="matrix(1,0,0,0.89594497,74.2211,11.413702)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 126.32322,109.6891 h 0.16923 v 9.47692 h -0.16923 z"
+         id="path949-1" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 126.32322,118.80608 h 0.16923 v 18.95385 h -0.16923 z"
+         id="path1007-1" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 126.32322,137.39999 h 0.16923 v 9.47692 h -0.16923 z"
+         id="path1057-9" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 126.32322,146.84748 h 0.16923 v 9.47692 h -0.16923 z"
+         id="path1107-1" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 126.32322,156.16312 h 0.16923 v 9.47693 h -0.16923 z"
+         id="path1157-3" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 126.32322,165.28011 h 0.16923 v 9.47692 h -0.16923 z"
+         id="path1207-9" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 126.32322,174.39709 h 0.16923 v 9.47692 h -0.16923 z"
+         id="path1267-1" />
+    </g>
+    <g
+       id="g1558"
+       transform="matrix(1.0041498,0,0,1,-0.14867502,-10.583333)"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 35.827069,186.51986 h 22.71923 v 0.16924 h -22.71923 z"
+         id="path1259" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 58.71553,186.51986 h 67.60769 v 0.16924 H 58.71553 Z"
+         id="path1265" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+         d="m 125.96328,186.51986 h 73.99616 v 0.16924 h -73.99616 z"
+         id="path1271" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.88607px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="35.657837"
+       y="190.36986"
+       id="text1283"><tspan
+         sodipodi:role="line"
+         x="35.657837"
+         y="190.36986"
+         id="tspan1281"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.88607px;font-family:Calibri;fill:#000000;stroke-width:0.264583"
+           id="tspan1279"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.24263px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.220775"
+       x="114.48145"
+       y="120.73694"
+       id="text959-5"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199"><tspan
+         sodipodi:role="line"
+         x="114.48145"
+         y="120.73694"
+         id="tspan957-8"
+         style="stroke-width:0.220775">Models membrane dipping-regions and TM hairpins</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.24263px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.220775"
+       x="114.69838"
+       y="128.88506"
+       id="text959-5-1"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199"><tspan
+         sodipodi:role="line"
+         x="114.69838"
+         y="128.88506"
+         id="tspan957-8-6"
+         style="stroke-width:0.220775">Allows input of interaction restraints to drive the docking </tspan><tspan
+         sodipodi:role="line"
+         x="114.69838"
+         y="132.93834"
+         style="stroke-width:0.220775"
+         id="tspan63783">process</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.24263px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.220775"
+       x="114.48145"
+       y="139.12259"
+       id="text959-5-1-8"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199"><tspan
+         sodipodi:role="line"
+         x="114.48145"
+         y="139.12259"
+         id="tspan957-8-6-4"
+         style="stroke-width:0.220775">Includes ranking and filtering of predicted structures and </tspan><tspan
+         sodipodi:role="line"
+         x="114.48145"
+         y="143.17587"
+         style="stroke-width:0.220775"
+         id="tspan61489">representative visuals of the interface</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.24263px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.220775"
+       x="114.48145"
+       y="149.35207"
+       id="text959-5-1-8-4"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199"><tspan
+         sodipodi:role="line"
+         x="114.48145"
+         y="149.35207"
+         style="stroke-width:0.220775"
+         id="tspan66005">Evolutionary constraints derived from multiple sequence</tspan><tspan
+         sodipodi:role="line"
+         x="114.48145"
+         y="153.40535"
+         style="stroke-width:0.220775"
+         id="tspan70569">alignments</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.24263px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.220775"
+       x="114.64137"
+       y="161.83623"
+       id="text959-5-1-8-4-6"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199"><tspan
+         sodipodi:role="line"
+         x="114.64137"
+         y="161.83623"
+         id="tspan957-8-6-4-2-3"
+         style="stroke-width:0.220775">Separates signal peptides from TM regions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.24263px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.220775"
+       x="114.60016"
+       y="172.02884"
+       id="text959-5-1-8-4-6-1"
+       inkscape:export-filename="D:\github\Thesis\intro_chapter\figures\docking_programs.png"
+       inkscape:export-xdpi="1701.8199"
+       inkscape:export-ydpi="1701.8199"><tspan
+         sodipodi:role="line"
+         x="114.60016"
+         y="172.02884"
+         id="tspan957-8-6-4-2-3-8"
+         style="stroke-width:0.220775">Calculates thermodynamic stabilities of insertion and association</tspan></text>
+  </g>
+</svg>
