@@ -1,0 +1,11 @@
+To rerun the analysis that makes these graphs:
+- python3 code/findNonClashingGridPoints.py -inputDir dir/to/rot_zshift_grids -outputDir output/dir
+
+The inputDir should contain the rot_zshift_grids for each protein. This data is found in /General/data/data02/gloiseau/2020-2024_Sequence_Design_Project/2022-2024_DesignData/2022/2022-9_runs/2022-9.tar.xz
+After untarring, there are multiple different versions of data in there. 
+- I only set it up to individually run on a single directory at a time, so you will have to run it on each directory individually.
+    - GASright: 2022-9-30_GASright
+    - Left: 2022-9-30_leftHanded
+    - Right: 2022-9-30_rightHanded
+
+In each of these directories there are pdb files that get named with the geometry of the protein and the energy that was output. The script reads in the filenames and creates a kde plot of the rot_zshift grid points. It also outputs a csv file with the grid points that are not clashing with the protein.

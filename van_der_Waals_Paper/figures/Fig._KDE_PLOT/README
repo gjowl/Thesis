@@ -1,0 +1,6 @@
+To rerun the analysis on this data:
+- python3 mkde_angle_v_dist.py 2020_02_21_plottingdata.csv
+
+To change the level of smoothness, edit line 37 in mkde_angle_v_dist.py to higher or lower values.
+
+The 2020_09_23_kdeData.csv is the same, just used for plotting the underlay of the kde only (for plots when I make the design geometry outputs overlayed)
