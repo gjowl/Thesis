@@ -1,0 +1,6 @@
+To rerun analysis:
+- python3 getSasaDifference.py -wt wt.csv -mutant mutant.csv -outDir outDir
+
+Analyzes the void mutant and wt SASA % differences. The wt file has updated data from the updated backbone repack script.
+Currently just uses the original SASA data from the void mutant and wt found in the mutant file, since this is how we decided on them, not with the updated data.
+- wasn't able to get all of the mutant sequence structures using the backbone repack, so just went with the data from point mutants without the repack.

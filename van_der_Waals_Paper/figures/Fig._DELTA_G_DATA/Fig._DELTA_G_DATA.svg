@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="1283.7524"
-     inkscape:cy="560.02857"
+     inkscape:zoom="1"
+     inkscape:cx="1212"
+     inkscape:cy="639.99998"
      inkscape:window-width="3584"
      inkscape:window-height="1892"
      inkscape:window-x="5364"
@@ -11482,7 +11482,7 @@
        inkscape:export-ydpi="120"><tspan
          x="-5"
          y="-10"
-         id="tspan25317">A</tspan></text>
+         id="tspan27928">A</tspan></text>
     <g
        id="figure_1-0"
        transform="matrix(0.35277778,0,0,0.35277778,-260.84265,163.09482)"
@@ -14736,153 +14736,6 @@
                height="100%" />
           </g>
         </g>
-        <g
-           id="text_19-4"
-           transform="matrix(1.2339342,0,0,1.2339342,522.77277,-113.24301)">
-          <!-- y = 0.05x + -1.55 -->
-          <g
-             transform="matrix(0.14,0,0,-0.14,60.60825,21.230868)"
-             id="g16759">
-            <defs
-               id="defs16723">
-              <path
-                 id="path17432"
-                 d="m 397,-1278 -63,528 q 185,-50 322,-50 188,0 300,63 113,62 185,174 53,85 172,419 15,47 50,138 L 103,3319 h 606 l 691,-1922 q 134,-366 241,-769 97,388 231,756 l 709,1935 h 563 L 1881,-56 q -203,-547 -315,-753 -150,-279 -344,-408 -194,-130 -463,-130 -162,0 -362,69 z"
-                 transform="scale(0.015625)" />
-              <path
-                 id="path17434"
-                 d="M 47,0 1259,1725 138,3319 h 703 l 509,-778 q 144,-222 231,-372 138,206 253,365 l 560,785 h 672 L 1919,1756 3153,0 H 2463 L 1781,1031 1600,1309 728,0 Z"
-                 transform="scale(0.015625)" />
-              <path
-                 id="path17436"
-                 d="M 1603,741 V 1997 H 356 v 525 h 1247 v 1247 h 531 V 2522 H 3381 V 1997 H 2134 V 741 Z"
-                 transform="scale(0.015625)" />
-              <path
-                 id="path17438"
-                 d="m 203,1375 v 566 h 1728 v -566 z"
-                 transform="scale(0.015625)" />
-            </defs>
-            <use
-               xlink:href="#ArialMT-79-5"
-               id="use16725"
-               x="0"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-20-30"
-               x="50"
-               id="use16727"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-3d-1"
-               x="77.783203"
-               id="use16729"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-20-30"
-               x="136.18164"
-               id="use16731"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-30-31"
-               x="163.96484"
-               id="use16733"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-2e-22"
-               x="219.58008"
-               id="use16735"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-30-31"
-               x="247.36328"
-               id="use16737"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-35-96"
-               x="302.97852"
-               id="use16739"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-78-6"
-               x="358.59375"
-               id="use16741"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-20-30"
-               x="408.59375"
-               id="use16743"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-2b-88"
-               x="436.37695"
-               id="use16745"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-20-30"
-               x="494.77539"
-               id="use16747"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-2d-91"
-               x="522.55859"
-               id="use16749"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-31-9"
-               x="555.85938"
-               id="use16751"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-2e-22"
-               x="611.47461"
-               id="use16753"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-35-96"
-               x="639.25781"
-               id="use16755"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-35-96"
-               x="694.87305"
-               id="use16757"
-               y="0"
-               width="100%"
-               height="100%" />
-          </g>
-        </g>
       </g>
     </g>
     <g
@@ -17119,164 +16972,21 @@
                height="100%" />
           </g>
         </g>
-        <g
-           id="text_19-0"
-           transform="matrix(1.3214427,0,0,1.3214427,-18.054506,-18.078681)">
-          <!-- y = -0.01x + -2.39 -->
-          <g
-             transform="matrix(0.14,0,0,-0.14,60.60825,66.30481)"
-             id="g21213">
-            <defs
-               id="defs21175">
-              <path
-                 id="path21754"
-                 d="m 397,-1278 -63,528 q 185,-50 322,-50 188,0 300,63 113,62 185,174 53,85 172,419 15,47 50,138 L 103,3319 h 606 l 691,-1922 q 134,-366 241,-769 97,388 231,756 l 709,1935 h 563 L 1881,-56 q -203,-547 -315,-753 -150,-279 -344,-408 -194,-130 -463,-130 -162,0 -362,69 z"
-                 transform="scale(0.015625)" />
-              <path
-                 id="path21756"
-                 d="m 203,1375 v 566 h 1728 v -566 z"
-                 transform="scale(0.015625)" />
-              <path
-                 id="path21758"
-                 d="M 47,0 1259,1725 138,3319 h 703 l 509,-778 q 144,-222 231,-372 138,206 253,365 l 560,785 h 672 L 1919,1756 3153,0 H 2463 L 1781,1031 1600,1309 728,0 Z"
-                 transform="scale(0.015625)" />
-              <path
-                 id="path21760"
-                 d="M 1603,741 V 1997 H 356 v 525 h 1247 v 1247 h 531 V 2522 H 3381 V 1997 H 2134 V 741 Z"
-                 transform="scale(0.015625)" />
-              <path
-                 id="path21762"
-                 d="m 350,1059 541,50 q 68,-381 262,-553 194,-172 497,-172 259,0 454,119 196,119 321,317 125,199 209,536 85,338 85,688 0,37 -3,112 -169,-268 -461,-436 -292,-167 -633,-167 -569,0 -963,412 -393,413 -393,1088 0,697 411,1122 411,425 1029,425 447,0 817,-241 371,-240 563,-686 192,-445 192,-1289 0,-878 -191,-1398 Q 2897,466 2520,194 2144,-78 1638,-78 1100,-78 759,220 419,519 350,1059 Z m 2303,2022 q 0,485 -258,769 -257,284 -620,284 -375,0 -653,-306 -278,-306 -278,-794 0,-437 264,-711 264,-273 651,-273 391,0 642,273 252,274 252,758 z"
-                 transform="scale(0.015625)" />
-            </defs>
-            <use
-               xlink:href="#ArialMT-79-8"
-               id="use21177"
-               x="0"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-20-71"
-               x="50"
-               id="use21179"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-3d-8"
-               x="77.783203"
-               id="use21181"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-20-71"
-               x="136.18164"
-               id="use21183"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-2d-6"
-               x="163.96484"
-               id="use21185"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-30-33"
-               x="197.26562"
-               id="use21187"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-2e-5"
-               x="252.88086"
-               id="use21189"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-30-33"
-               x="280.66406"
-               id="use21191"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-31-7"
-               x="336.2793"
-               id="use21193"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-78-01"
-               x="391.89453"
-               id="use21195"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-20-71"
-               x="441.89453"
-               id="use21197"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-2b-5"
-               x="469.67773"
-               id="use21199"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-20-71"
-               x="528.07617"
-               id="use21201"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-2d-6"
-               x="555.85938"
-               id="use21203"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-32-5"
-               x="589.16016"
-               id="use21205"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-2e-5"
-               x="644.77539"
-               id="use21207"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-33-31"
-               x="672.55859"
-               id="use21209"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-39-5"
-               x="728.17383"
-               id="use21211"
-               y="0"
-               width="100%"
-               height="100%" />
-          </g>
-        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.7635px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.781809;stroke-linecap:butt;stroke-linejoin:round"
+           x="133.42529"
+           y="64.27002"
+           id="text34202-5-6-8-4-6-9-3-0-4"
+           inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120"
+           transform="rotate(-0.6928998)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.7635px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.781809"
+             x="133.42529"
+             y="64.27002"
+             id="tspan24577-7-39-7">y = 0.01x - 2.39</tspan></text>
       </g>
     </g>
     <g
@@ -20993,153 +20703,6 @@
                height="100%" />
           </g>
         </g>
-        <g
-           id="text_19-3"
-           transform="matrix(1.2547091,0,0,1.2547091,-13.994864,42.136481)">
-          <!-- y = 0.02x + -1.62 -->
-          <g
-             transform="matrix(0.14,0,0,-0.14,60.60825,21.30481)"
-             id="g26486">
-            <defs
-               id="defs26450">
-              <path
-                 id="path27226"
-                 d="m 397,-1278 -63,528 q 185,-50 322,-50 188,0 300,63 113,62 185,174 53,85 172,419 15,47 50,138 L 103,3319 h 606 l 691,-1922 q 134,-366 241,-769 97,388 231,756 l 709,1935 h 563 L 1881,-56 q -203,-547 -315,-753 -150,-279 -344,-408 -194,-130 -463,-130 -162,0 -362,69 z"
-                 transform="scale(0.015625)" />
-              <path
-                 id="path27228"
-                 d="M 47,0 1259,1725 138,3319 h 703 l 509,-778 q 144,-222 231,-372 138,206 253,365 l 560,785 h 672 L 1919,1756 3153,0 H 2463 L 1781,1031 1600,1309 728,0 Z"
-                 transform="scale(0.015625)" />
-              <path
-                 id="path27230"
-                 d="M 1603,741 V 1997 H 356 v 525 h 1247 v 1247 h 531 V 2522 H 3381 V 1997 H 2134 V 741 Z"
-                 transform="scale(0.015625)" />
-              <path
-                 id="path27232"
-                 d="m 203,1375 v 566 h 1728 v -566 z"
-                 transform="scale(0.015625)" />
-            </defs>
-            <use
-               xlink:href="#ArialMT-79-84"
-               id="use26452"
-               x="0"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-20-8"
-               x="50"
-               id="use26454"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-3d-0"
-               x="77.783203"
-               id="use26456"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-20-8"
-               x="136.18164"
-               id="use26458"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-30-6"
-               x="163.96484"
-               id="use26460"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-2e-6"
-               x="219.58008"
-               id="use26462"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-30-6"
-               x="247.36328"
-               id="use26464"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-32-91"
-               x="302.97852"
-               id="use26466"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-78-1"
-               x="358.59375"
-               id="use26468"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-20-8"
-               x="408.59375"
-               id="use26470"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-2b-4"
-               x="436.37695"
-               id="use26472"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-20-8"
-               x="494.77539"
-               id="use26474"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-2d-65"
-               x="522.55859"
-               id="use26476"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-31-66"
-               x="555.85938"
-               id="use26478"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-2e-6"
-               x="611.47461"
-               id="use26480"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-36-90"
-               x="639.25781"
-               id="use26482"
-               y="0"
-               width="100%"
-               height="100%" />
-            <use
-               xlink:href="#ArialMT-32-91"
-               x="694.87305"
-               id="use26484"
-               y="0"
-               width="100%"
-               height="100%" />
-          </g>
-        </g>
       </g>
     </g>
     <g
@@ -21195,7 +20758,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect29589-2);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><tspan
            x="-5"
            y="-10"
-           id="tspan25319">C</tspan></text>
+           id="tspan27930">C</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -27322,7 +26885,7 @@
          inkscape:export-ydpi="120"><tspan
            x="-5"
            y="-10"
-           id="tspan25321">B</tspan></text>
+           id="tspan27932">B</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.22819px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.342841;stroke-linecap:butt;stroke-linejoin:round"
@@ -44953,8 +44516,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.61933px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.275805;stroke-linecap:butt;stroke-linejoin:round"
-       x="-36.663807"
-       y="141.87027"
+       x="-37.96423"
+       y="140.00232"
        id="text34202-5-6-8-4-6-9-3"
        inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
@@ -44962,11 +44525,71 @@
        transform="rotate(-0.69289974)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.61933px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.275805"
-         x="-36.663807"
-         y="141.87027"
+         x="-37.96423"
+         y="140.00232"
          id="tspan24577-7">R<tspan
    style="font-size:4.30256px;baseline-shift:super;stroke-width:0.275805"
    id="tspan27202">2</tspan> = 0.24</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.61933px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.275805;stroke-linecap:butt;stroke-linejoin:round"
+       x="-27.661608"
+       y="128.51729"
+       id="text34202-5-6-8-4-6-9-3-0"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120"
+       transform="rotate(-0.69289974)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.61933px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.275805"
+         x="-27.661608"
+         y="128.51729"
+         id="tspan24577-7-39">y = 0.05x - 1.55</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.61933px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.275805;stroke-linecap:butt;stroke-linejoin:round"
+       x="-27.529198"
+       y="205.08444"
+       id="text34202-5-6-8-4-6-9-3-7"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120"
+       transform="rotate(-0.69289974)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.61933px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.275805"
+         x="-27.529198"
+         y="205.08444"
+         id="tspan24577-7-9">p-value = 4.2e-5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.61933px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.275805;stroke-linecap:butt;stroke-linejoin:round"
+       x="144.21515"
+       y="207.19824"
+       id="text34202-5-6-8-4-6-9-3-7-7"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120"
+       transform="rotate(-0.69289974)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.61933px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.275805"
+         x="144.21515"
+         y="207.19824"
+         id="tspan24577-7-9-6">p-value = 0.50</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.61933px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.275805;stroke-linecap:butt;stroke-linejoin:round"
+       x="316.01294"
+       y="209.27232"
+       id="text34202-5-6-8-4-6-9-3-7-7-7"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120"
+       transform="rotate(-0.69289974)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.61933px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.275805"
+         x="316.01294"
+         y="209.27232"
+         id="tspan24577-7-9-6-8">p-value = 0.13</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.61933px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.275805;stroke-linecap:butt;stroke-linejoin:round"
@@ -45015,6 +44638,21 @@
          id="tspan26316"
          style="font-size:7.31394px;stroke-width:0.342841"
          x="-105.42854"
-         y="-69.365898">Reconstructd TOXGREEN (%GpA)</tspan></text>
+         y="-69.365898">Reconstructed TOXGREEN (%GpA)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.61935px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.275805;stroke-linecap:butt;stroke-linejoin:round"
+       x="320.63492"
+       y="134.47923"
+       id="text34202-5-6-8-4-6-9-3-0-4-4"
+       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120"
+       transform="rotate(-0.69289937)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.61935px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.275805"
+         x="320.63492"
+         y="134.47923"
+         id="tspan24577-7-39-7-3">y = 0.02x - 1.62</tspan></text>
   </g>
 </svg>
