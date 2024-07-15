@@ -7,7 +7,7 @@
    viewBox="0 0 600.01618 446.01848"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="Fig._DELTA_G_DATA.svg"
    inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
    inkscape:export-xdpi="120"
@@ -27,13 +27,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="1212"
-     inkscape:cy="639.99998"
-     inkscape:window-width="3584"
-     inkscape:window-height="1892"
-     inkscape:window-x="5364"
-     inkscape:window-y="-12"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="784.88853"
+     inkscape:cy="702.86414"
+     inkscape:window-width="1846"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:showpageshadow="2"
@@ -11422,7 +11422,7 @@
        height="446.01849"
        x="-107.10625"
        y="-28.170284"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120" />
     <g
@@ -11477,16 +11477,16 @@
        transform="matrix(0.26458333,0,0,0.26458333,-92.436253,-7.5300727)"
        id="text29587"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect29589);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120"><tspan
          x="-5"
-         y="-10"
-         id="tspan27928">A</tspan></text>
+         y="-9.375"
+         id="tspan16863">A</tspan></text>
     <g
        id="figure_1-0"
        transform="matrix(0.35277778,0,0,0.35277778,-260.84265,163.09482)"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
       <g
@@ -14741,7 +14741,7 @@
     <g
        id="figure_1-00"
        transform="matrix(0.35277778,0,0,0.35277778,101.3474,108.19189)"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
       <g
@@ -16992,7 +16992,7 @@
     <g
        id="figure_1-5"
        transform="matrix(0.35277778,0,0,0.35277778,275.1528,108.19189)"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
       <g
@@ -20709,7 +20709,7 @@
        transform="matrix(0.03527778,0,0,-0.03527778,335.02886,120.06574)"
        id="g30130-2-9-4"
        style="stroke-linecap:butt;stroke-linejoin:round"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
       <defs
@@ -20757,8 +20757,8 @@
          id="text29587-4"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect29589-2);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><tspan
            x="-5"
-           y="-10"
-           id="tspan27930">C</tspan></text>
+           y="-9.375"
+           id="tspan16865">C</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -20766,7 +20766,7 @@
        x="142.39005"
        y="228.19295"
        id="text34202-5-6"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120"><tspan
          sodipodi:role="line"
@@ -20776,7 +20776,7 @@
          y="228.19295">Energy Score (kcal/mol)</tspan></text>
     <g
        id="g31893"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
       <g
@@ -26884,8 +26884,8 @@
          inkscape:export-xdpi="120"
          inkscape:export-ydpi="120"><tspan
            x="-5"
-           y="-10"
-           id="tspan27932">B</tspan></text>
+           y="-9.375"
+           id="tspan16867">B</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.22819px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.342841;stroke-linecap:butt;stroke-linejoin:round"
@@ -27007,7 +27007,7 @@
        y="-67.446815"
        id="text34202-5-4-2"
        transform="rotate(-89.934629)"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.22819px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.342841"
@@ -27023,7 +27023,7 @@
     <g
        id="g20214"
        transform="translate(35.454168,10.583333)"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
       <g
@@ -28330,7 +28330,7 @@
     <g
        id="g23887"
        transform="translate(0,-10.583333)"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
       <g
@@ -35560,7 +35560,7 @@
     <g
        id="g22772"
        transform="translate(0,-10.583333)"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
       <g
@@ -39855,7 +39855,7 @@
     <g
        id="g29992"
        transform="translate(0,-10.583333)"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
       <g
@@ -44505,7 +44505,7 @@
        x="435.45535"
        y="39.846138"
        id="text34202-5-6-8-4-7-5-4"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120"><tspan
          sodipodi:role="line"
@@ -44519,7 +44519,7 @@
        x="-37.96423"
        y="140.00232"
        id="text34202-5-6-8-4-6-9-3"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120"
        transform="rotate(-0.69289974)"><tspan
@@ -44536,7 +44536,7 @@
        x="-27.661608"
        y="128.51729"
        id="text34202-5-6-8-4-6-9-3-0"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120"
        transform="rotate(-0.69289974)"><tspan
@@ -44551,7 +44551,7 @@
        x="-27.529198"
        y="205.08444"
        id="text34202-5-6-8-4-6-9-3-7"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120"
        transform="rotate(-0.69289974)"><tspan
@@ -44566,7 +44566,7 @@
        x="144.21515"
        y="207.19824"
        id="text34202-5-6-8-4-6-9-3-7-7"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120"
        transform="rotate(-0.69289974)"><tspan
@@ -44581,7 +44581,7 @@
        x="316.01294"
        y="209.27232"
        id="text34202-5-6-8-4-6-9-3-7-7-7"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120"
        transform="rotate(-0.69289974)"><tspan
@@ -44596,7 +44596,7 @@
        x="136.93762"
        y="143.96982"
        id="text34202-5-6-8-4-6-9-3-5"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120"
        transform="rotate(-0.69289974)"><tspan
@@ -44613,7 +44613,7 @@
        x="310.87573"
        y="146.07341"
        id="text34202-5-6-8-4-6-9-3-5-6"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120"
        transform="rotate(-0.69289974)"><tspan
@@ -44631,7 +44631,7 @@
        y="-69.365898"
        id="text26318"
        transform="rotate(-90.277015)"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120"><tspan
          sodipodi:role="line"
@@ -44645,7 +44645,7 @@
        x="320.63492"
        y="134.47923"
        id="text34202-5-6-8-4-6-9-3-0-4-4"
-       inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA.png"
+       inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Fig._DELTA_G_DATA/Fig._DELTA_G_DATA.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120"
        transform="rotate(-0.69289937)"><tspan
