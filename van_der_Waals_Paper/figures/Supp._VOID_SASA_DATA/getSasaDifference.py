@@ -74,7 +74,12 @@ if __name__ == '__main__':
     # get the average SASA difference for each unique value in the wt_mut column of the clash dataframe
     void_avg = void_df.groupby('WT_MUT')['SASA Percent'].mean()
     void_avg.to_csv(f'{outputDir}/voidAvg.csv')
-
+    
+    # make a copy of the dataframe with WT_MUT replaced with 'All'
+    void_df_all = void_df.copy()
+    void_df_all['WT_MUT'] = 'All'
+    # concatenate the two dataframes
+    void_df = pd.concat([void_df, void_df_all])
     # sort the dataframe by the wt_mut column
     void_df = void_df.sort_values('WT_MUT')
     # plot the individual SASA differences for each unique value in the wt_mut column of the clash dataframe
@@ -89,6 +94,9 @@ if __name__ == '__main__':
     plt.ylabel('Percent SASA of WT')
     plt.savefig(f'{outputDir}/voidAvgPlot.png')
     plt.savefig(f'{outputDir}/voidAvgPlot.svg')
+    plt.close()
+    # save the data
+    void_df.to_csv(f'{outputDir}/voidAvgPlotData.csv', index=False)
 
     # get counts for each unique value in the wt_mut column of the void dataframe
     void_counts = void_df['WT_MUT'].value_counts()
