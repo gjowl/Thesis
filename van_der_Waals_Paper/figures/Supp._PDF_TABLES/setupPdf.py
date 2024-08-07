@@ -19,11 +19,15 @@ if args.outputDir is not None:
 
 if __name__ == '__main__':
     # read in the data
-    wt = pd.read_csv(wtFile)
+    wt = pd.read_csv(wtFile, sep=',', dtype={'Interface': str})
 
-    # add LLL and ILI to the end of the sequences
-    wt['Sequence'] = wt['Sequence'].apply(lambda x: 'LLL' + x + 'ILI')
-
+    # check if sequence length is 21
+    if len(wt['Sequence'][0]) != 21:
+        print('The sequence length is not 21, adding LLL and ILI to the ends.')
+        # add LLL and ILI to the end of the sequences
+        wt['Sequence'] = wt['Sequence'].apply(lambda x: 'LLL' + x + 'ILI')
+    
+    
     # designate the columns to keep
     keepCols = ['Sequence', 'Total', 'PercentGpA', 'PercentStd', 'Sample', 'toxgreen_fluor', 'toxgreen_std', 'interfaceSasa', 'deltaG', 'std_deltaG']
     wt = wt[keepCols]
@@ -57,7 +61,6 @@ if __name__ == '__main__':
     wt.rename(columns={'Sequence':'Sequence', 'Total':'Computational Score (kcal/mol)', 'PercentGpA':'GpA (%)', 'Sample':'Sample', 'toxgreen_fluor':'Reconstructed Fluorescence', 'interfaceSasa':'Interface SASA (Å)', 'deltaG':'ΔG (kcal/mol)'}, inplace=True)
     # re-order the columns
     wt = wt[['Sample', 'Sequence', 'Computational Score (kcal/mol)', 'GpA (%)', 'Reconstructed Fluorescence', 'Interface SASA (Å)', 'ΔG (kcal/mol)']]
-    print(wt)
 
     # save the dataframe as a pdf
-    wt.to_csv(f'{outputDir}/wt_data_for_pdf.csv', index=False)
+    wt.to_csv(f'{outputDir}/pdf_all_data.csv', index=False)

@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="290.29938mm"
-   height="187.4146mm"
-   viewBox="0 0 290.29938 187.4146"
+   width="233.41618mm"
+   height="190.51265mm"
+   viewBox="0 0 233.41619 190.51265"
    version="1.1"
    id="svg64768"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    sodipodi:docname="Supp._OUTPUT_GEOMETRIES.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.64052329"
-     inkscape:cx="395.77015"
-     inkscape:cy="381.71914"
-     inkscape:window-width="1846"
-     inkscape:window-height="1136"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="1.2810466"
+     inkscape:cx="647.51744"
+     inkscape:cy="227.15802"
+     inkscape:window-width="3584"
+     inkscape:window-height="1892"
+     inkscape:window-x="5364"
+     inkscape:window-y="513"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g31893" />
   <defs
      id="defs64765">
     <clipPath
@@ -3595,7 +3595,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-0.405551,-47.53809)">
+     transform="translate(2.118701,-44.44004)">
     <g
        id="g31893"
        inkscape:export-filename="/home/loiseau@ad.wisc.edu/github/Thesis/van_der_Waals_Paper/figures/Supp._OUTPUT_GEOMETRIES/Supp._OUTPUT_GEOMETRIES.png"
@@ -3605,7 +3605,10 @@
        transform="translate(79.815991,-182.02647)">
       <g
          id="patch_1-9"
-         transform="matrix(0.55325367,0,0,0.55325367,-79.41044,229.56456)">
+         transform="matrix(0.51044571,0,0,0.56239922,-81.934692,226.46651)"
+         inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Supp._OUTPUT_GEOMETRIES\Supp._OUTPUT_GEOMETRIES.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120">
         <path
            d="M 0,338.74984 H 457.27917 V 0 H 0 Z"
            style="fill:#ffffff"
@@ -7916,38 +7919,24 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.52576px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35524;stroke-linecap:butt;stroke-linejoin:round"
-         x="166.56253"
-         y="316.42758"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.32721px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.263634;stroke-linecap:butt;stroke-linejoin:round"
+         x="117.8933"
+         y="234.00394"
          id="text34202-5-6-8-4-6-9"
          inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA_v2.png"
          inkscape:export-xdpi="120"
          inkscape:export-ydpi="120"
-         transform="rotate(-0.69289974)"><tspan
+         transform="rotate(-0.13049341)"><tspan
            sodipodi:role="line"
            id="tspan34200-5-4-3-1-2-1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.52576px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.35524"
-           x="166.56253"
-           y="316.42758">Reconstructed</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.32721px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.263634"
+           x="117.8933"
+           y="234.00394">Reconstructed</tspan><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.52576px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.35524"
-           x="166.56253"
-           y="327.08478"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.32721px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.263634"
+           x="117.8933"
+           y="241.91295"
            id="tspan24577">TOXGREEN (%GpA)</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.20416px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300173;stroke-linecap:butt;stroke-linejoin:round"
-         x="-26.852835"
-         y="241.27373"
-         id="text34202-5-6-8-4-6"
-         inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Fig._DELTA_G_DATA\Fig._DELTA_G_DATA_v2.png"
-         inkscape:export-xdpi="120"
-         inkscape:export-ydpi="120"><tspan
-           sodipodi:role="line"
-           id="tspan34200-5-4-3-1-2"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.20416px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.300173"
-           x="-26.852835"
-           y="241.27373">Geometry vs Dimerization Propensity</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.22819px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.342841;stroke-linecap:butt;stroke-linejoin:round"
