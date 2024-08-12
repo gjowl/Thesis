@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="541.08197mm"
-   height="398.91434mm"
-   viewBox="0 0 541.08197 398.91434"
+   width="533.66595mm"
+   height="378.99329mm"
+   viewBox="0 0 533.66595 378.99329"
    version="1.1"
    id="svg2046"
    sodipodi:docname="aa_composition_comparison_v2.svg"
@@ -24,13 +24,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.56630543"
-     inkscape:cx="792.85837"
-     inkscape:cy="573.89525"
-     inkscape:window-width="3840"
-     inkscape:window-height="2036"
-     inkscape:window-x="-12"
-     inkscape:window-y="-12"
+     inkscape:zoom="0.80087682"
+     inkscape:cx="1084.5884"
+     inkscape:cy="890.22566"
+     inkscape:window-width="3584"
+     inkscape:window-height="1892"
+     inkscape:window-x="5364"
+     inkscape:window-y="513"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -1164,21 +1164,21 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(209.66214,11.04419)">
+     transform="translate(202.24615,1.3637937)">
     <rect
-       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:6.59349;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:6.38255;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect11860"
-       width="541.08197"
-       height="398.91434"
-       x="-209.66214"
-       y="-11.04419"
+       width="533.66595"
+       height="378.99329"
+       x="-202.24615"
+       y="-1.3637937"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120" />
     <g
        id="g11"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       style="stroke-linecap:butt;stroke-linejoin:round;fill:#808080;stroke:#222222;stroke-opacity:0.49237806"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-302.37187)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1189,12 +1189,13 @@
          stroke-linejoin="round"
          stroke-miterlimit="10"
          fill="none"
-         id="path9" />
+         id="path9"
+         style="fill:#808080;stroke:#222222;stroke-opacity:0.49237806" />
     </g>
     <g
        id="g15"
-       transform="matrix(0.26458333,0,0,0.26458333,-908.98701,-307.66357)"
-       style="fill:#c83737;stroke-linecap:butt;stroke-linejoin:round"
+       transform="matrix(0.26458333,0,0,0.26458333,-908.98701,-302.37187)"
+       style="fill:#ffffff;stroke:#262626;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1202,12 +1203,12 @@
          d="m 2993.1,1409.05 h 16 V 1826 h -16 z m 74,361.01 h 17 V 1826 h -17 z m 75,-24 h 16 V 1826 h -16 z m 74.01,-50 h 17 V 1826 h -17 z m 75,-139.01 h 16 V 1826 h -16 z m 74,28 h 17 V 1826 h -17 z m 75,190.01 h 16 V 1826 h -16 z m 74.01,-300.01 h 17 V 1826 h -17 z m 75,236.01 h 16 V 1826 h -16 z m 74,-459.02 h 17 V 1826 h -17 z m 75,454.02 h 16 V 1826 h -16 z m 74,23 h 17.01 V 1826 h -17.01 z m 75.01,46 h 16 V 1826 h -16 z m 74,-69 h 17 V 1826 h -17 z m 75,-9 h 16 V 1826 h -16 z m 74,-94.01 h 17.01 V 1826 h -17.01 z m 75.01,20 h 16 V 1826 h -16 z m 74,-158 h 17 V 1826 h -17 z m 75,286.01 h 16 V 1826 h -16 z m 74,-68 h 17.01 V 1826 h -17.01 z"
          fill="#156082"
          id="path13"
-         style="fill:#c83737" />
+         style="fill:#ffffff;stroke:#262626;stroke-width:1.88976;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        id="g19"
-       transform="matrix(0.26458333,0,0,0.26458333,-921.15784,-307.66357)"
-       style="fill:#f4d7d7;stroke-linecap:butt;stroke-linejoin:round"
+       transform="matrix(0.26458333,0,0,0.26458333,-921.15784,-302.37187)"
+       style="fill:#55ddff;fill-opacity:1;stroke:#262626;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1215,12 +1216,12 @@
          d="m 3014.1,1403.05 h 17 V 1826 h -17 z m 74,372.01 h 17 V 1826 h -17 z m 75,-34 h 17 V 1826 h -17 z m 74.01,-49 h 17 V 1826 h -17 z m 75,-135.01 h 17 V 1826 h -17 z m 74,26 h 17 V 1826 h -17 z m 75,188.01 h 17 V 1826 h -17 z m 74.01,-290.01 h 17 V 1826 h -17 z m 75,228.01 h 17 V 1826 h -17 z m 74,-459.02 h 17 V 1826 h -17 z m 75,453.02 h 17 V 1826 h -17 z m 74.01,20 h 17 V 1826 h -17 z m 75,48 h 17 V 1826 h -17 z m 74,-52 h 17 V 1826 h -17 z m 75,-32 h 17 V 1826 h -17 z m 74.01,-76.01 h 17 V 1826 h -17 z m 75,16 h 17 V 1826 h -17 z m 74,-154 h 17 V 1826 h -17 z m 75,281.01 h 17 V 1826 h -17 z m 74.01,-68 h 17 V 1826 h -17 z"
          fill="#e97132"
          id="path17"
-         style="fill:#f4d7d7" />
+         style="fill:#55ddff;fill-opacity:1;stroke:#262626;stroke-width:1.88976;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        id="g23"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       style="stroke:#262626;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-302.37187)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1232,12 +1233,31 @@
          stroke-miterlimit="10"
          fill="none"
          fill-rule="evenodd"
-         id="path21" />
+         id="path21"
+         style="stroke:#262626;stroke-width:3.77953;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g23-8"
+       style="stroke:#262626;stroke-width:3.45369;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(-1.858156e-5,-0.11304671,0.2669802,0.00288807,-615.0339,511.73967)"
+       inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120">
+      <path
+         d="m 2974.5,1826.5 h 1490"
+         stroke="#d9d9d9"
+         stroke-width="3.4375"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         id="path21-5"
+         style="stroke:#262626;stroke-width:3.45369;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        id="g27"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-907.39951,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-907.39951,-302.37187)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1249,12 +1269,14 @@
          font-size="41px"
          transform="translate(2915.6,1838)"
          id="text25"
-         style="fill:#000000">0</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan50832">0</tspan></text>
     </g>
     <g
        id="g31"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-907.39951,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-907.39951,-302.37187)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1266,12 +1288,14 @@
          font-size="41px"
          transform="translate(2915.6,1762)"
          id="text29"
-         style="fill:#000000">2</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan49360">2</tspan></text>
     </g>
     <g
        id="g35"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-907.39951,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-907.39951,-302.37187)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1283,12 +1307,14 @@
          font-size="41px"
          transform="translate(2915.6,1685)"
          id="text33"
-         style="fill:#000000">4</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan47714">4</tspan></text>
     </g>
     <g
        id="g39"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-907.39951,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-907.39951,-302.37187)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1300,12 +1326,14 @@
          font-size="41px"
          transform="translate(2915.6,1609)"
          id="text37"
-         style="fill:#000000">6</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan46428">6</tspan></text>
     </g>
     <g
        id="g43"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-907.39951,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-907.39951,-302.37187)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1317,12 +1345,14 @@
          font-size="41px"
          transform="translate(2915.6,1533)"
          id="text41"
-         style="fill:#000000">8</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan45178">8</tspan></text>
     </g>
     <g
        id="g47"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-907.39951,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-907.39951,-302.37187)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1334,12 +1364,14 @@
          font-size="41px"
          transform="translate(2894.7,1457)"
          id="text45"
-         style="fill:#000000">10</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan43646">10</tspan></text>
     </g>
     <g
        id="g51"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-907.39951,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-907.39951,-302.37187)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1351,12 +1383,14 @@
          font-size="41px"
          transform="translate(2894.7,1381)"
          id="text49"
-         style="fill:#000000">12</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan41946">12</tspan></text>
     </g>
     <g
        id="g55"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-907.39951,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-907.39951,-302.37187)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1368,12 +1402,14 @@
          font-size="41px"
          transform="translate(2894.7,1305)"
          id="text53"
-         style="fill:#000000">14</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan40210">14</tspan></text>
     </g>
     <g
        id="g59"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-907.39951,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-907.39951,-302.37187)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1385,12 +1421,14 @@
          font-size="41px"
          transform="translate(2894.7,1229)"
          id="text57"
-         style="fill:#000000">16</text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan37250">16</tspan></text>
     </g>
     <g
        id="g63"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-308.44547)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1402,12 +1440,14 @@
          font-size="41px"
          transform="translate(3000.81,1891)"
          id="text61"
-         style="fill:#000000">A</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan34014">A</tspan></text>
     </g>
     <g
        id="g67"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-308.44547)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1419,12 +1459,14 @@
          font-size="41px"
          transform="translate(3073.28,1891)"
          id="text65"
-         style="fill:#000000">C</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan32422">C</tspan></text>
     </g>
     <g
        id="g71"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-308.44547)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1436,12 +1478,14 @@
          font-size="41px"
          transform="translate(3147.89,1891)"
          id="text69"
-         style="fill:#000000">D</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan30974">D</tspan></text>
     </g>
     <g
        id="g75"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-308.44547)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1453,12 +1497,14 @@
          font-size="41px"
          transform="translate(3224.81,1891)"
          id="text73"
-         style="fill:#000000">E</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan29562">E</tspan></text>
     </g>
     <g
        id="g79"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-308.44547)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1470,12 +1516,14 @@
          font-size="41px"
          transform="translate(3299.92,1891)"
          id="text77"
-         style="fill:#000000">F</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan28018">F</tspan></text>
     </g>
     <g
        id="g83"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-308.44547)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1487,12 +1535,14 @@
          font-size="41px"
          transform="translate(3370.98,1891)"
          id="text81"
-         style="fill:#000000">G</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan25664">G</tspan></text>
     </g>
     <g
        id="g87"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-308.44547)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1504,12 +1554,14 @@
          font-size="41px"
          transform="translate(3445.48,1891)"
          id="text85"
-         style="fill:#000000">H</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan23922">H</tspan></text>
     </g>
     <g
        id="g91"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-308.44547)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1521,12 +1573,14 @@
          font-size="41px"
          transform="translate(3528.28,1891)"
          id="text89"
-         style="fill:#000000">I</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan22582">I</tspan></text>
     </g>
     <g
        id="g95"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-308.44547)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1538,12 +1592,14 @@
          font-size="41px"
          transform="translate(3597.03,1891)"
          id="text93"
-         style="fill:#000000">K</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan20906">K</tspan></text>
     </g>
     <g
        id="g99"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-308.44547)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1555,12 +1611,14 @@
          font-size="41px"
          transform="translate(3672.87,1891)"
          id="text97"
-         style="fill:#000000">L</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan19548">L</tspan></text>
     </g>
     <g
        id="g103"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-308.44547)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1572,12 +1630,14 @@
          font-size="41px"
          transform="translate(3741.89,1891)"
          id="text101"
-         style="fill:#000000">M</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan16846">M</tspan></text>
     </g>
     <g
        id="g107"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-308.44547)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1589,12 +1649,14 @@
          font-size="41px"
          transform="translate(3817.99,1891)"
          id="text105"
-         style="fill:#000000">N</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan14738">N</tspan></text>
     </g>
     <g
        id="g111"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-308.44547)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1606,12 +1668,14 @@
          font-size="41px"
          transform="translate(3894.87,1891)"
          id="text109"
-         style="fill:#000000">P</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan12828">P</tspan></text>
     </g>
     <g
        id="g115"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-308.44547)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1623,12 +1687,14 @@
          font-size="41px"
          transform="translate(3966.51,1891)"
          id="text113"
-         style="fill:#000000">Q</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan11434">Q</tspan></text>
     </g>
     <g
        id="g119"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-308.44547)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1640,12 +1706,14 @@
          font-size="41px"
          transform="translate(4043.32,1891)"
          id="text117"
-         style="fill:#000000">R</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan9590">R</tspan></text>
     </g>
     <g
        id="g123"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-308.44547)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1657,12 +1725,14 @@
          font-size="41px"
          transform="translate(4118.56,1891)"
          id="text121"
-         style="fill:#000000">S</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan7878">S</tspan></text>
     </g>
     <g
        id="g127"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-308.44547)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1674,12 +1744,14 @@
          font-size="41px"
          transform="translate(4194.77,1891)"
          id="text125"
-         style="fill:#000000">T</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan6202">T</tspan></text>
     </g>
     <g
        id="g131"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-308.44547)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1691,12 +1763,14 @@
          font-size="41px"
          transform="translate(4267.31,1891)"
          id="text129"
-         style="fill:#000000">V</text>
+         style="font-weight:400;font-stretch:semi-condensed;font-size:41px;font-family:'Aptos Narrow', 'Aptos Narrow_MSFontService', sans-serif;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan4166">V</tspan></text>
     </g>
     <g
        id="g135"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-308.44547)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1708,12 +1782,14 @@
          font-size="41px"
          transform="translate(4335.99,1891)"
          id="text133"
-         style="fill:#000000">W</text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan2532">W</tspan></text>
     </g>
     <g
        id="g139"
        style="fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-307.66357)"
+       transform="matrix(0.26458333,0,0,0.26458333,-914.80784,-302.37187)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1723,14 +1799,15 @@
          font-weight="400"
          font-stretch="semi-condensed"
          font-size="41px"
-         transform="translate(4417.08,1891)"
          id="text137"
-         style="fill:#000000">Y</text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+         x="4417.0801"
+         y="1868.0437">Y</text>
     </g>
     <g
        id="g147"
-       style="fill:#c83737;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-628.96373,-429.23865)"
+       style="fill:#ffffff;fill-opacity:1;stroke:#262626;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-628.96373,-423.94695)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1741,12 +1818,12 @@
          height="23"
          fill="#156082"
          id="rect145"
-         style="fill:#c83737;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#262626;stroke-width:1.88976;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        id="g155"
-       transform="matrix(0.26458333,0,0,0.26458333,-698.41685,-449.72141)"
-       style="fill:#f4d7d7;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
+       transform="matrix(0.26458333,0,0,0.26458333,-698.41685,-444.42971)"
+       style="fill:#55ddff;fill-opacity:1;stroke:#262626;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120">
@@ -1757,13 +1834,13 @@
          height="23"
          fill="#e97132"
          id="rect153"
-         style="fill:#f4d7d7;fill-opacity:1" />
+         style="fill:#55ddff;fill-opacity:1;stroke:#262626;stroke-width:1.88976;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <text
        xml:space="preserve"
        style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
        x="313.03104"
-       y="95.634346"
+       y="100.92602"
        id="text3948"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
@@ -1771,13 +1848,13 @@
          sodipodi:role="line"
          id="tspan3946"
          x="313.03104"
-         y="95.634346"
+         y="100.92602"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:calibri;-inkscape-font-specification:calibri;stroke-width:0.264583">2024</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
        x="313.16541"
-       y="75.151588"
+       y="80.44326"
        id="text3948-9"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
        inkscape:export-xdpi="120"
@@ -1785,7 +1862,7 @@
          sodipodi:role="line"
          id="tspan3946-4"
          x="313.16541"
-         y="75.151588"
+         y="80.44326"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.264583">2021</tspan></text>
     <text
        xml:space="preserve"
@@ -1981,8 +2058,8 @@
     <text
        xml:space="preserve"
        style="font-size:15.5137px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.387845;stroke-linecap:butt;stroke-linejoin:round"
-       x="-92.10791"
-       y="-146.77669"
+       x="-97.399353"
+       y="-146.82201"
        id="text3948-9-6"
        transform="rotate(-90.490676)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
@@ -1990,12 +2067,12 @@
        inkscape:export-ydpi="120"><tspan
          sodipodi:role="line"
          id="tspan3946-4-1"
-         x="-92.10791"
-         y="-146.77669"
+         x="-97.399353"
+         y="-146.82201"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.387845">% AA in TM Sequence</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:15.5137px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.387845;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5137px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.387845;stroke-linecap:butt;stroke-linejoin:round"
        x="-288.32877"
        y="-187.36221"
        id="text3948-9-6-1"
@@ -2007,10 +2084,10 @@
          id="tspan3946-4-1-5"
          x="-286.57513"
          y="-187.36221"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.387845">% Difference </tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5137px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.387845">% Difference </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:15.5137px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.387845;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5137px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.387845;stroke-linecap:butt;stroke-linejoin:round"
        x="77.548737"
        y="369.22556"
        id="text3948-9-6-1-3"
@@ -2022,7 +2099,7 @@
          id="tspan3946-4-1-5-7"
          x="77.548737"
          y="369.22556"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.387845">Amino Acid Pair</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5137px;font-family:calibri;-inkscape-font-specification:'calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.387845">Amino Acid Pair</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:15.5137px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.387845;stroke-linecap:butt;stroke-linejoin:round"
@@ -2057,7 +2134,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.387845">Left</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:15.5137px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.387845;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5137px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.387845;stroke-linecap:butt;stroke-linejoin:round"
        x="-175.11583"
        y="213.25348"
        id="text3948-9-6-1-3-4-3-6"
@@ -2069,12 +2146,12 @@
          id="tspan3946-4-1-5-7-4-4-3"
          x="-175.11583"
          y="213.25348"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.387845">B</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5137px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.387845">B</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:15.5137px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.387845;stroke-linecap:butt;stroke-linejoin:round"
-       x="-173.87834"
-       y="8.4165421"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5137px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.387845;stroke-linecap:butt;stroke-linejoin:round"
+       x="-173.90215"
+       y="13.708157"
        id="text3948-9-6-1-3-4-3-6-6"
        transform="rotate(-0.25726704)"
        inkscape:export-filename="D:\github\Thesis\future_directions_chapter\aa_composition_comparison_v2.png"
@@ -2082,9 +2159,9 @@
        inkscape:export-ydpi="120"><tspan
          sodipodi:role="line"
          id="tspan3946-4-1-5-7-4-4-3-3"
-         x="-173.87834"
-         y="8.4165421"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.387845">A</tspan></text>
+         x="-173.90215"
+         y="13.708157"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5137px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.387845">A</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:15.5137px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.387845;stroke-linecap:butt;stroke-linejoin:round"
@@ -2118,92 +2195,92 @@
         </g>
         <g
            id="patch_3-2"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 81.984545,145.5325 h 28.611505 v 85.82689 H 81.984545 Z"
              clip-path="url(#p8d336a7a6a)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path24646" />
         </g>
         <g
            id="patch_4-1"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 117.74892,145.5325 h 28.61151 v 77.1017 h -28.61151 z"
              clip-path="url(#p8d336a7a6a)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path24649" />
         </g>
         <g
            id="patch_5-8"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 153.5133,145.5325 h 28.6115 v 63.32359 h -28.6115 z"
              clip-path="url(#p8d336a7a6a)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path24652" />
         </g>
         <g
            id="patch_6-6"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 189.27768,145.5325 h 28.6115 v 43.75771 h -28.6115 z"
              clip-path="url(#p8d336a7a6a)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path24655" />
         </g>
         <g
            id="patch_7-4"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 225.04206,145.5325 h 28.6115 v -35.9841 h -28.6115 z"
              clip-path="url(#p8d336a7a6a)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path24658" />
         </g>
         <g
            id="patch_8-84"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 260.80644,145.5325 h 28.6115 v 32.04614 h -28.6115 z"
              clip-path="url(#p8d336a7a6a)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path24661" />
         </g>
         <g
            id="patch_9-8"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 296.57082,145.5325 h 28.6115 v 31.86288 h -28.6115 z"
              clip-path="url(#p8d336a7a6a)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path24664" />
         </g>
         <g
            id="patch_10-87"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="M 332.33519,145.5325 H 360.9467 V 118.48692 H 332.33519 Z"
              clip-path="url(#p8d336a7a6a)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path24667" />
         </g>
         <g
            id="patch_11-6"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 368.09957,145.5325 h 28.61151 v 20.01798 h -28.61151 z"
              clip-path="url(#p8d336a7a6a)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path24670" />
         </g>
         <g
            id="patch_12-7"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 403.86395,145.5325 h 28.6115 v 17.49076 h -28.6115 z"
              clip-path="url(#p8d336a7a6a)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path24673" />
         </g>
         <g
@@ -2860,92 +2937,92 @@
         </g>
         <g
            id="patch_3-26"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 81.984545,145.5325 h 28.611505 v 63.32359 H 81.984545 Z"
              clip-path="url(#p34f58d8c02)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path25587" />
         </g>
         <g
            id="patch_4-6"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 117.74892,145.5325 h 28.61151 V 88.004451 h -28.61151 z"
              clip-path="url(#p34f58d8c02)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path25590" />
         </g>
         <g
            id="patch_5-1"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 153.5133,145.5325 h 28.6115 v 47.86269 h -28.6115 z"
              clip-path="url(#p34f58d8c02)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path25593" />
         </g>
         <g
            id="patch_6-2"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 189.27768,145.5325 h 28.6115 v 43.75771 h -28.6115 z"
              clip-path="url(#p34f58d8c02)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path25596" />
         </g>
         <g
            id="patch_7-9"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 225.04206,145.5325 h 28.6115 v 39.97485 h -28.6115 z"
              clip-path="url(#p34f58d8c02)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path25599" />
         </g>
         <g
            id="patch_8-81"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 260.80644,145.5325 h 28.6115 v 32.04614 h -28.6115 z"
              clip-path="url(#p34f58d8c02)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path25602" />
         </g>
         <g
            id="patch_9-2"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 296.57082,145.5325 h 28.6115 v 31.86288 h -28.6115 z"
              clip-path="url(#p34f58d8c02)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path25605" />
         </g>
         <g
            id="patch_10-5"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 332.33519,145.5325 h 28.61151 v 22.51959 h -28.61151 z"
              clip-path="url(#p34f58d8c02)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path25608" />
         </g>
         <g
            id="patch_11-8"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 368.09957,145.5325 h 28.61151 v 20.01798 h -28.61151 z"
              clip-path="url(#p34f58d8c02)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path25611" />
         </g>
         <g
            id="patch_12-3"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 403.86395,145.5325 h 28.6115 v 19.11764 h -28.6115 z"
              clip-path="url(#p34f58d8c02)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path25614" />
         </g>
         <g
@@ -3601,101 +3678,101 @@
         <g
            id="patch_3-6"
            transform="matrix(1.0731012,0,0,1.0731012,-62.440007,2.930548)"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="M 81.984545,145.5325 H 110.59605 V 286.68344 H 81.984545 Z"
              clip-path="url(#pa909e4dc69)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path26518" />
         </g>
         <g
            id="patch_4-4"
            transform="matrix(1.0731012,0,0,1.0731012,-62.440007,2.930548)"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 117.74892,145.5325 h 28.61151 v 85.82689 h -28.61151 z"
              clip-path="url(#pa909e4dc69)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path26521" />
         </g>
         <g
            id="patch_5-5"
            transform="matrix(1.0731012,0,0,1.0731012,-62.440007,2.930548)"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 153.5133,145.5325 h 28.6115 v 77.1017 h -28.6115 z"
              clip-path="url(#pa909e4dc69)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path26524" />
         </g>
         <g
            id="patch_6-74"
            transform="matrix(1.0731012,0,0,1.0731012,-62.440007,2.930548)"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 189.27768,145.5325 h 28.6115 v 63.32359 h -28.6115 z"
              clip-path="url(#pa909e4dc69)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path26527" />
         </g>
         <g
            id="patch_7-93"
            transform="matrix(1.0731012,0,0,1.0731012,-62.440007,2.930548)"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 225.04206,145.5325 h 28.6115 v 43.75771 h -28.6115 z"
              clip-path="url(#pa909e4dc69)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path26530" />
         </g>
         <g
            id="patch_8-0"
            transform="matrix(1.0731012,0,0,1.0731012,-62.440007,2.930548)"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 260.80644,145.5325 h 28.6115 v 39.97485 h -28.6115 z"
              clip-path="url(#pa909e4dc69)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path26533" />
         </g>
         <g
            id="patch_9-87"
            transform="matrix(1.0731012,0,0,1.0731012,-62.440007,2.930548)"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 296.57082,145.5325 h 28.6115 v 32.04614 h -28.6115 z"
              clip-path="url(#pa909e4dc69)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path26536" />
         </g>
         <g
            id="patch_10-63"
            transform="matrix(1.0731012,0,0,1.0731012,-62.440007,2.930548)"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 332.33519,145.5325 h 28.61151 v 31.86288 h -28.61151 z"
              clip-path="url(#pa909e4dc69)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path26539" />
         </g>
         <g
            id="patch_11-2"
            transform="matrix(1.0731012,0,0,1.0731012,-62.440007,2.930548)"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 368.09957,145.5325 h 28.61151 v 28.02464 h -28.61151 z"
              clip-path="url(#pa909e4dc69)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path26542" />
         </g>
         <g
            id="patch_12-0"
            transform="matrix(1.0731012,0,0,1.0731012,-62.440007,2.930548)"
-           style="fill:#333333;fill-opacity:1">
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 403.86395,145.5325 h 28.6115 v 24.22976 h -28.6115 z"
              clip-path="url(#pa909e4dc69)"
-             style="fill:#333333;fill-opacity:1"
+             style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1.24751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path26545" />
         </g>
         <g

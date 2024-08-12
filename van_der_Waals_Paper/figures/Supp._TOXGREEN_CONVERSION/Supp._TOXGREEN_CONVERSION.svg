@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="488.62476mm"
-   height="153.95975mm"
-   viewBox="0 0 488.62475 153.95975"
+   width="486.5025mm"
+   height="144.66446mm"
+   viewBox="0 0 486.5025 144.66446"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
@@ -28,12 +28,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0998546"
-     inkscape:cx="605.53459"
-     inkscape:cy="316.86007"
+     inkscape:cx="690.09122"
+     inkscape:cy="35.459233"
      inkscape:window-width="3584"
      inkscape:window-height="1892"
      inkscape:window-x="5364"
-     inkscape:window-y="425"
+     inkscape:window-y="513"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -1147,38 +1147,23 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(141.03079,-96.208199)">
+     transform="translate(139.63023,-103.33842)">
     <rect
-       style="fill:#ffffff;stroke:none;stroke-width:0.0966623;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#ffffff;stroke:none;stroke-width:0.0934952;stroke-linecap:round;stroke-linejoin:round"
        id="rect45612"
-       width="488.62476"
-       height="153.95975"
-       x="-141.03079"
-       y="96.208199"
+       width="486.5025"
+       height="144.66446"
+       x="-139.63023"
+       y="103.33842"
        inkscape:export-filename="D:\github\Thesis\van_der_Waals_Paper\figures\Supp._TOXGREEN_CONVERSION\Supp._TOXGREEN_CONVERSION.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <g
        id="figure_1"
-       transform="matrix(0.35277777,0,0,0.35277777,-124.39014,106.18036)">
-      <g
-         id="patch_1">
-        <path
-           d="M 0,345.6 H 460.8 V 0 H 0 Z"
-           style="fill:#ffffff"
-           id="path924" />
-      </g>
-    </g>
+       transform="matrix(0.35277777,0,0,0.35277777,-124.39014,106.18036)" />
     <g
        id="figure_1-7"
        transform="matrix(0.35277777,0,0,0.35277777,189.46528,109.27571)">
-      <g
-         id="patch_1-9">
-        <path
-           d="M 0,345.6 H 460.8 V 0 H 0 Z"
-           style="fill:#ffffff"
-           id="path4953" />
-      </g>
       <g
          id="axes_1-7">
         <g
@@ -1541,11 +1526,12 @@
           </g>
         </g>
         <g
-           id="line2d_15-4">
+           id="line2d_15-4"
+           style="stroke-width:2.83464573;stroke-miterlimit:4;stroke-dasharray:none">
           <path
              d="m 251.33343,174.52633 -149.4219,88.82089 268.59117,-159.6587 -256.96566,152.74814 11.8401,-7.0381 17.69265,-10.51705 -13.69173,8.13878 32.11119,-19.08786 -6.32672,3.76079 -5.49607,3.26703"
              clip-path="url(#pf6214ee99c)"
-             style="fill:none;stroke:#1f77b4;stroke-width:1.5;stroke-linecap:square"
+             style="fill:none;stroke:#1f77b4;stroke-width:2.83464573;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
              id="path5378" />
         </g>
         <g
@@ -1950,13 +1936,6 @@
        id="figure_1-3"
        transform="matrix(0.35277777,0,0,0.35277777,31.667773,109.27571)">
       <g
-         id="patch_1-6">
-        <path
-           d="M 0,345.6 H 460.8 V 0 H 0 Z"
-           style="fill:#ffffff"
-           id="path4064" />
-      </g>
-      <g
          id="axes_1-75">
         <g
            id="patch_2-3">
@@ -2301,11 +2280,12 @@
           </g>
         </g>
         <g
-           id="line2d_14-8">
+           id="line2d_14-8"
+           style="stroke-width:2.83464573;stroke-miterlimit:4;stroke-dasharray:none">
           <path
              d="M 251.33343,157.48376 101.91153,239.58904 370.5027,92.001883 113.53704,233.20098 l 11.8401,-6.50597 81.80081,-44.94842 -31.88968,17.52294 -15.20419,8.35449 -20.34724,11.18053 -12.78841,7.02706"
              clip-path="url(#p62f753e890)"
-             style="fill:none;stroke:#1f77b4;stroke-width:1.5;stroke-linecap:square"
+             style="fill:none;stroke:#1f77b4;stroke-width:2.83464573;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
              id="path4470" />
         </g>
         <g
@@ -3065,11 +3045,12 @@
         </g>
       </g>
       <g
-         id="line2d_15">
+         id="line2d_15"
+         style="stroke-width:2.83464573;stroke-miterlimit:4;stroke-dasharray:none">
         <path
            d="M 254.32284,157.99657 107.93643,254.72966 371.07121,80.8485 119.32577,247.20351 l 11.59956,-7.66507 125.23188,-82.75403 -88.78532,58.66991 -15.99051,10.56663 -24.39265,16.11882"
            clip-path="url(#pe8e0562ef8)"
-           style="fill:none;stroke:#1f77b4;stroke-width:1.5;stroke-linecap:square"
+           style="fill:none;stroke:#1f77b4;stroke-width:2.83464573;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
            id="path1347" />
       </g>
       <g
@@ -3465,64 +3446,62 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
-       x="1094.2015"
-       y="0.1409416"
-       id="text6143-2-2-6"
-       transform="matrix(0.35277777,0,0,0.35277777,-120.15678,106.18036)"><tspan
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="265.85321"
+       y="115.22591"
+       id="text6143-2-2-6"><tspan
          sodipodi:role="line"
          id="tspan6141-6-5-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:calibri;-inkscape-font-specification:calibri;stroke-width:0.75"
-         x="1094.2015"
-         y="0.1409416">Right</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:calibri;-inkscape-font-specification:calibri;stroke-width:0.264583"
+         x="265.85321"
+         y="115.22591">Right</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
-       x="651.55212"
-       y="2.7263908"
-       id="text6143-2-2"
-       transform="matrix(0.35277777,0,0,0.35277777,-120.15678,106.18036)"><tspan
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="110.39745"
+       y="116.13799"
+       id="text6143-2-2"><tspan
          sodipodi:role="line"
          id="tspan6141-6-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:calibri;-inkscape-font-specification:calibri;stroke-width:0.75"
-         x="651.55212"
-         y="2.7263908">Left</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:calibri;-inkscape-font-specification:calibri;stroke-width:0.264583"
+         x="110.39745"
+         y="116.13799">Left</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
        x="-55.217606"
-       y="105.29513"
+       y="114.29097"
        id="text6143-2"><tspan
          sodipodi:role="line"
          id="tspan6141-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:calibri;-inkscape-font-specification:calibri;stroke-width:0.264583"
          x="-55.217606"
-         y="105.29513">GAS<tspan
+         y="114.29097">GAS<tspan
    style="font-size:6.87917px;baseline-shift:sub;stroke-width:0.264583"
    id="tspan7446">right</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
-       x="-228.30873"
-       y="-131.26788"
+       style="font-style:normal;font-weight:normal;font-size:9.21767px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.230442;stroke-linecap:butt;stroke-linejoin:round"
+       x="-226.53539"
+       y="-127.54865"
        id="text6143-6"
-       transform="rotate(-90.142037,5.0902392e-7,6.1445441e-7)"><tspan
+       transform="rotate(-90.142037)"><tspan
          sodipodi:role="line"
          id="tspan6141-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:calibri;-inkscape-font-specification:calibri;stroke-width:0.264583"
-         x="-228.30873"
-         y="-131.26788">Reconstructed Fluorescence</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:calibri;-inkscape-font-specification:calibri;stroke-width:0.230442"
+         x="-226.53539"
+         y="-127.54865">Reconstructed Fluorescence</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="66.094994"
-       y="245.56532"
+       style="font-style:normal;font-weight:normal;font-size:9.18763px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.229691"
+       x="73.307472"
+       y="240.38275"
        id="text6143"><tspan
          sodipodi:role="line"
          id="tspan6141"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:calibri;-inkscape-font-specification:calibri;stroke-width:0.264583"
-         x="66.094994"
-         y="245.56532">TOXGREEN Fluorescence</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:calibri;-inkscape-font-specification:calibri;stroke-width:0.229691"
+         x="73.307472"
+         y="240.38275">TOXGREEN Fluorescence</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.35404px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.158851;stroke-linecap:butt;stroke-linejoin:round"

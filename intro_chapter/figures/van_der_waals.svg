@@ -25,12 +25,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.1653671"
-     inkscape:cx="586.9395"
-     inkscape:cy="476.24477"
-     inkscape:window-width="3840"
-     inkscape:window-height="2036"
-     inkscape:window-x="-12"
-     inkscape:window-y="-12"
+     inkscape:cx="416.17787"
+     inkscape:cy="616.54392"
+     inkscape:window-width="3584"
+     inkscape:window-height="1892"
+     inkscape:window-x="5364"
+     inkscape:window-y="425"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -93,18 +93,6 @@
     </marker>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient23836">
-      <stop
-         style="stop-color:#00ffff;stop-opacity:1;"
-         offset="0"
-         id="stop23832" />
-      <stop
-         style="stop-color:#00ffff;stop-opacity:0;"
-         offset="1"
-         id="stop23834" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient12215">
       <stop
          style="stop-color:#00ffff;stop-opacity:1;"
@@ -121,18 +109,18 @@
        id="linearGradient12217"
        x1="254.75946"
        y1="189.99973"
-       x2="310.98541"
+       x2="284.9895"
        y2="189.99973"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-16.969771,66.968139)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient23836"
+       xlink:href="#linearGradient12215"
        id="linearGradient23838"
        x1="145.91298"
-       y1="191.1235"
-       x2="202.13893"
-       y2="191.1235"
+       y1="191.6911"
+       x2="176.37004"
+       y2="191.23703"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(12.936562,65.84436)" />
   </defs>
@@ -383,36 +371,36 @@
     <text
        xml:space="preserve"
        style="font-size:22.165px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.554127"
-       x="222.82552"
+       x="221.92804"
        y="113.31567"
        id="text2344-6-3"><tspan
          sodipodi:role="line"
          id="tspan2342-9-9"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:calibri;-inkscape-font-specification:calibri;stroke-width:0.554127"
-         x="222.82552"
+         x="221.92804"
          y="113.31567">Repulsion</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:22.165px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.554127"
-       x="223.56688"
+       x="227.04402"
        y="220.36375"
        id="text2344-6-3-0"><tspan
          sodipodi:role="line"
          id="tspan2342-9-9-1"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:calibri;-inkscape-font-specification:calibri;stroke-width:0.554127"
-         x="223.56688"
+         x="227.04402"
          y="220.36375">Attraction</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:42.6049px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:1.06512"
-       x="224.11458"
-       y="174.36028"
+       x="222.05811"
+       y="175.94954"
        id="text2344-6-9"><tspan
          sodipodi:role="line"
          id="tspan2342-9-7"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:calibri;-inkscape-font-specification:calibri;fill:#ff0000;stroke-width:1.06512"
-         x="224.11458"
-         y="174.36028">X</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:42.6049px;font-family:calibri;-inkscape-font-specification:'calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;stroke-width:1.06512"
+         x="222.05811"
+         y="175.94954">X</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:25.7972px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.644931"
@@ -540,11 +528,11 @@
        id="path24044" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-       d="m 239.08905,122.94366 20.43347,0.22704"
+       d="m 232.71737,122.94366 20.43347,0.22704"
        id="path24044-6" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow1Mstart)"
-       d="m 186.18905,122.99166 20.43347,0.22704"
+       d="m 190.96499,122.99166 20.43347,0.22704"
        id="path24044-5" />
   </g>
 </svg>
