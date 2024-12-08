@@ -24,7 +24,7 @@ if __name__ == '__main__':
     mut = pd.read_csv(mutFile)
 
     # rid of proteins that have a positive energy
-    wt = wt[wt['VDWDiff'] < 0]
+    #wt = wt[wt['VDWDiff'] < 0]
 
     # add LLL and ILI to the end of the sequences
     wt['Sequence'] = wt['Sequence'].apply(lambda x: 'LLL' + x + 'ILI')
@@ -48,6 +48,8 @@ if __name__ == '__main__':
         for m in tmp_mut['Mutant']:
             # find the position different between the wt and mutant sequences
             pos = [i for i in range(len(seq)) if seq[i] != m[i]]
+            if len(pos) != 1:
+                continue
             # get that character from the wt sequence and mutant sequence
             wt_char = seq[pos[0]]
             mut_char = m[pos[0]]

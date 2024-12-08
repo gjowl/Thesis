@@ -43,6 +43,8 @@ if __name__ == '__main__':
     plt.savefig(f'{outputDir}/interfaceSasa.svg')
     # use a t-test to determine if the means are significantly different
     samples = wt['Sample'].unique()
+    # for saving significance
+    sigs = {}
     for i in range(len(samples)-1):
         for j in range(i+1, len(samples)):
             sample1 = samples[i]
@@ -50,7 +52,7 @@ if __name__ == '__main__':
             s1 = wt[wt['Sample'] == sample1]['interfaceSasa']
             s2 = wt[wt['Sample'] == sample2]['interfaceSasa']
             t, p = ttest_ind(s1, s2)
-            plt.text(i+1, 0.5, f'{sample1} vs {sample2}\np-value: {p}', ha='center', va='center', fontsize=8, color='red')
-    plt.tight_layout()
-    plt.savefig(f'{outputDir}/interfaceSasa_sig.png')
-    plt.savefig(f'{outputDir}/interfaceSasa_sig.svg')
+            sigs[f'{sample1} v {sample2}'] = p
+    # save the significance
+    sigs = pd.DataFrame.from_dict(sigs, orient='index', columns=['p-value'])
+    sigs.to_csv(f'{outputDir}/interfaceSasa_ttest.csv')

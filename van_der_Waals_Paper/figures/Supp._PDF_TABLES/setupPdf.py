@@ -4,13 +4,13 @@ from scipy.stats import ttest_ind
 
 # initialize the parser
 parser = argparse.ArgumentParser(description='Compare the vdw and sasa of mutants to the WT sequence')
-parser.add_argument('-wt','--wtFile', type=str, help='the input reconstructed fluorescence csv file')
+parser.add_argument('-dataFile','--dataFile', type=str, help='the input reconstructed fluorescence csv file')
 parser.add_argument('-outDir','--outputDir', type=str, help='the output directory')
 
 # extract the arguments into variables
 args = parser.parse_args()
 # necessary arguments
-wtFile = args.wtFile
+dataFile = args.dataFile
 # optional arguments
 outputDir = os.getcwd()
 if args.outputDir is not None:
@@ -19,7 +19,7 @@ if args.outputDir is not None:
 
 if __name__ == '__main__':
     # read in the data
-    wt = pd.read_csv(wtFile, sep=',', dtype={'Interface': str})
+    wt = pd.read_csv(dataFile, sep=',', dtype={'Interface': str})
 
     # check if sequence length is 21
     if len(wt['Sequence'][0]) != 21:
@@ -63,4 +63,4 @@ if __name__ == '__main__':
     wt = wt[['Sample', 'Sequence', 'Computational Score (kcal/mol)', 'GpA (%)', 'Reconstructed Fluorescence', 'Interface SASA (Å)', 'ΔG (kcal/mol)']]
 
     # save the dataframe as a pdf
-    wt.to_csv(f'{outputDir}/pdf_all_data.csv', index=False)
+    wt.to_csv(f'{outputDir}/pdf_data.csv', index=False)

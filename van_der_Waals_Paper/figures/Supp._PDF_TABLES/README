@@ -1,0 +1,3 @@
+All of the input csv files were renamed for the analyzed data they came from in pdbOptimizationAnalysis. The original file names are listed below:
+ - sort_validated_set: lowestEnergySequences_deltaG.csv
+ - the others: lowestEnergySequences.csv

@@ -29,7 +29,9 @@ parser.add_argument('-outputDir', type=str, help='The directory where the output
 args = parser.parse_args()
 interfaceFile = args.interfaceFile
 dataFile = args.dataFile
-outputFile = 'output' if args.outputFile is None else args.outputFile
+# get the name of the data file without the extension
+dateFileName = dataFile.split('/')[-1].split('.')[0]
+outputFile = f'{dateFileName}_correct_interface' if args.outputFile is None else args.outputFile
 outputDir = os.getcwd() if args.outputDir is None else args.outputDir
 os.makedirs(name=outputDir, exist_ok=True)
 
