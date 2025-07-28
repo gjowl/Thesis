@@ -1,0 +1,17 @@
+To change names of the PDBs, I added the geometry back to the files which are in sorted order.
+
+I then used the geometry name to call the file from the pdb directory in the following format:
+ - path/to/pdb/dir/{sequence}/{id}.pdb
+
+Where geometry is broken down into:
+ - sequence: the amino acid sequence 
+ - id: the unique identifier for the PDB file
+
+I then moved that file to a new directory with the new name as the sample name:
+ - path/to/new/pdb/dir/{sample}.pdb
+
+PDB directories: 
+ - 2024-4-3_bbOptimizaterReruns
+ - 2023-8-28_pdbBBRepack
+    - leu: all_leu_wts, leu_mutants
+    - ala: ala_all, ala_mutants

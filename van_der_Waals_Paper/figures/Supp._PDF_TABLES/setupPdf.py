@@ -29,7 +29,7 @@ if __name__ == '__main__':
     
     
     # designate the columns to keep
-    keepCols = ['Sequence', 'Total', 'Geometry', 'PercentGpA', 'PercentStd', 'Sample', 'toxgreen_fluor', 'toxgreen_std', 'interfaceSasa', 'deltaG', 'std_deltaG']
+    keepCols = ['Sequence', 'Total', 'PercentGpA', 'PercentStd', 'Sample', 'toxgreen_fluor', 'toxgreen_std', 'interfaceSasa', 'deltaG', 'std_deltaG']
     wt = wt[keepCols]
 
     sig_figs = 2

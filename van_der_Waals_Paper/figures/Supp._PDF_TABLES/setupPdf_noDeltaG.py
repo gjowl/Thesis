@@ -55,7 +55,7 @@ if __name__ == '__main__':
     # rename the columns to their final names
     wt.rename(columns={'Sequence':'Sequence', 'Total':'Computational Score (kcal/mol)', 'PercentGpA':'GpA (%)', 'Sample':'Sample', 'toxgreen_fluor':'Reconstructed Fluorescence', 'interfaceSasa':'Interface SASA (Å)'}, inplace=True)
     # re-order the columns
-    wt = wt[['Sample', 'Sequence', 'Computational Score (kcal/mol)', 'GpA (%)', 'Reconstructed Fluorescence', 'Interface SASA (Å)']]
+    wt = wt[['Sample', 'Sequence', 'Computational Score (kcal/mol)', 'GpA (%)', 'Reconstructed Fluorescence', 'Interface SASA (Å)', 'Geometry']]
 
     # save the dataframe as a pdf
     wt.to_csv(f'{outputDir}/pdf_data.csv', index=False)
